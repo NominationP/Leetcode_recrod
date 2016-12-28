@@ -10,5 +10,8 @@
 |[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|- [ ] | - [ ]|
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)| - [ ] | - [ ]|
 
+- [ ]a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
 - [ ] incomplete
 - [x] completed
