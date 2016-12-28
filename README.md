@@ -5,9 +5,9 @@
 |List|Done |Review|
 |----|-----|------|
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)|- [ ] | - [x] ok?
-|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|- [ ] |- [ ]|
+|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|- [ ] |[x] item1<br/>[ ] item2
 |[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| - [ ] | - [ ]|
-|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|- [ ] | - [ ]|
+|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|- [ ] |  <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)| - [ ] | - [ ]|
 
 - [ ] a task list item
