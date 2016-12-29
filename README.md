@@ -9,4 +9,5 @@
 |[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)   |<ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | 2016.12
 |[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)       |<ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | 2016.12
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2016.12.28
+|[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2016.12.29
 
