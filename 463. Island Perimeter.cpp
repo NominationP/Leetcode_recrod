@@ -15,6 +15,9 @@ using namespace std;
  *2 find how many cell walls that connect with both lands. We need to deduct twice of those lines from total perimeter
  *
  * look clear  , think clear not code first , last do it !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ *
+ *
+ * do: use dfs do !!!!!!!!!!!!!!!!!1111
  */
 class Solution {
 public:
