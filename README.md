@@ -16,5 +16,6 @@
 |[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)   |<ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.05|need to imp with dfs
 |[136. Single Number](https://leetcode.com/problems/single-number/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.06
 |[binary tree](https://github.com/NominationP/Leetcode_recrod/blob/master/data_struct%26%26algorithm/binary_tree.cpp)   |<ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.07|delet not understand
-|[104. Maximum Depth of Binary Tree.cpp](https://leetcode.com/problems/maximum-depth-of-binary-tree/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.07
+|[104. Maximum Depth of Binary Tree.cpp](https://leetcode.com/problems/maximum-depth-of-binary-tree/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.07 | xor
+|[389. Find the Difference.cpp](https://leetcode.com/problems/find-the-difference/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.08 | xor
 
