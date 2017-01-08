@@ -16,10 +16,10 @@ public:
 int main()
 {
 
-    Solution s ;
+    Solution so ;
     // cout<<ee<<endl;
 
-    s.convert();
+    so.convert();
 
     return 0;
 }
