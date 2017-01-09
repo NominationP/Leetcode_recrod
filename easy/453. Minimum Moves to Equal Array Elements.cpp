@@ -7,7 +7,9 @@
 
 using namespace std;
 /**
- *q:
+ *d: Incrementing all but one is equivalent to decrementing that one. So let's do that instead. How many single-element decrements to make all equal? No point to decrementing below the current minimum, so how many single-element decrements to make all equal to the current minimum? Just take the difference from what's currently there (the sum) to what we want (n times the minimum).
+ *
+ *size-1 increment === only one decrement ===> all magic image !!!
  */
  class Solution {
  public:

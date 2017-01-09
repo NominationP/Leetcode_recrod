@@ -19,4 +19,5 @@
 |[104. Maximum Depth of Binary Tree.cpp](https://leetcode.com/problems/maximum-depth-of-binary-tree/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.07 | xor
 |[389. Find the Difference.cpp](https://leetcode.com/problems/find-the-difference/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.08 | xor
 |[455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.08 | simple greed or nothing
+|[453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.09 | size-1 increment === only one decrement&&..
 
