@@ -21,4 +21,5 @@
 |[455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.08 | simple greed or nothing
 |[453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.09 | size-1 increment === only one decrement&&..
 |[383. Ransom Note.cpp](https://leetcode.com/problems/ransom-note/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.10 | map or vector to check if dup
+|[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.17 | tree && Recursion
 

@@ -105,13 +105,10 @@ class BST {
                deleteValueHelper(current, current->right, value);
     }
 
-    int leftHelper(Node<T> *root){
+    int sumOfLeftLeaves(Node<T> *root,bool isLeft){
         if(!root) return 0;
-        if(root->left){
-            leftHelper(root->left);
-        }else{
-            cout<<root->value<<endl;
-        }
+        if(!root->left && !root->right) return isLeft?root->value:0;
+        return sumOfLeftLeaves(root->left,true)+sumOfLeftLeaves(root->right,false);
     }
 
 
@@ -146,7 +143,7 @@ class BST {
 
     int left(){
 
-        return leftHelper(this->root);
+        return sumOfLeftLeaves(this->root,true);
 
     }
 
@@ -166,7 +163,7 @@ int main() {
     bst->add(100);
     // bst->print();
 
-    bst->left();
+    cout<<bst->left();
 
 
 
