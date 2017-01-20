@@ -22,4 +22,6 @@
 |[453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.09 | size-1 increment === only one decrement&&..
 |[383. Ransom Note.cpp](https://leetcode.com/problems/ransom-note/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.10 | map or vector to check if dup
 |[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.17 | tree && Recursion
+|[100. Same Tree](https://leetcode.com/problems/same-tree/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.20 | tree && Recursion && oncepass so high !
+|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.20 | map or vector to check if dup
 
