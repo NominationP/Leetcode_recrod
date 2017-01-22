@@ -12,9 +12,7 @@ using namespace std;
 /**
  *q:
  */
-class Solution {
-public:
-};
+
 
 int main()
 {
