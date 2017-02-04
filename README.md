@@ -24,5 +24,6 @@
 |[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.17 | tree && Recursion
 |[100. Same Tree](https://leetcode.com/problems/same-tree/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.20 | tree && Recursion && oncepass so high !
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.20 | map or vector to check if dup
-|[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.22 | 3ms first blood haha [Submission Details](https://leetcode.com/submissions/detail/90148884/)
+|[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.22 | sqrt and find first %=0
+|[476. Number Complement](https://leetcode.com/problems/number-complement/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.04 | binary first byte && (& | ^ ~)
 
