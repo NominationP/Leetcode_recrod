@@ -26,4 +26,5 @@
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.20 | map or vector to check if dup
 |[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.22 | sqrt and find first %=0
 |[476. Number Complement](https://leetcode.com/problems/number-complement/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.04 | binary first byte && (& ^ ~) |
+|[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.04 | travel once  |
 
