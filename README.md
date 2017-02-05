@@ -41,3 +41,4 @@
 |List(Medium)|Done |Review|Date|info
 |----|-----|------|----|----|
 |[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | clear what mean  |
+|[338. Counting Bits](https://leetcode.com/problems/counting-bits/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | i&1 | i&(i-1) | how many 1 ...  |
