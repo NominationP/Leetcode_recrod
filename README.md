@@ -1,6 +1,10 @@
 #leetcode
 
+[TOC]
+
 >doing , don't stop
+
+### Easy
 
 |List(EASY)|Done |Review|Date|info
 |----|-----|------|----|----|
@@ -28,5 +32,10 @@
 |[476. Number Complement](https://leetcode.com/problems/number-complement/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.04 | binary first byte && (& ^ ~) |
 |[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.04 | travel once  |
 |[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | undered_map or two point  |
-|[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | clear what mean  |
 
+
+### Medium
+
+|List(Medium)|Done |Review|Date|info
+|----|-----|------|----|----|
+|[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | clear what mean  |
