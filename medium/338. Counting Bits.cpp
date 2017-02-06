@@ -11,6 +11,8 @@
 using namespace std;
 /**
  *  i&(i-1) drop last 1 ???
+ *  i&(i-1) drops the lowest set bit. For example: i = 14, its binary representation is 1110, so i-1 is 1101, i&(i-1) = 1100, the number of "1" in its binary representation decrease one, so ret[i] = ret[i&(i-1)] + 1. (Sorry, my English is so poor and I have tried my best to make it clearly, I hope you can understand my explanation)
+ *
  *  i&1 check weather 1 of last byte
  *  i's number of 1 == i/2 number of 1 + (i&1)
  *

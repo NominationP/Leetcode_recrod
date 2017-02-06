@@ -10,15 +10,15 @@
 
 using namespace std;
 /**
- *q:
+ *
  */
 
 
 int main()
 {
+    // vector<int> v = vector<int>{1,2,3,4,5};
 
     Solution so ;
-    // cout<<ee<<endl;
 
     so.convert();
 
