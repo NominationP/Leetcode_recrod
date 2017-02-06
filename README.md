@@ -3,6 +3,21 @@
 
 >doing , don't stop
 
+
+
+
+
+### Medium
+
+|List(Medium)|Done |Review|Date|info
+|----|-----|------|----|----|
+|[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | clear what mean  |
+|[338. Counting Bits](https://leetcode.com/problems/counting-bits/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | i&1 / i&(i-1) / how many 1 ...  |
+|[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.06 | change thought not Continuity than jump/reserve  |
+
+
+---
+
 ### Easy
 
 |List(EASY)|Done |Review|Date|info
@@ -33,13 +48,3 @@
 |[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | undered_map or two point  |
 
 
----
-
-
-### Medium
-
-|List(Medium)|Done |Review|Date|info
-|----|-----|------|----|----|
-|[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | clear what mean  |
-|[338. Counting Bits](https://leetcode.com/problems/counting-bits/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | i&1 / i&(i-1) / how many 1 ...  |
-|[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.06 | change thought not Continuity than jump/reserve  |
