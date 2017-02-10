@@ -14,7 +14,8 @@
 |[419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | clear what mean  |
 |[338. Counting Bits](https://leetcode.com/problems/counting-bits/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.05 | i&1 / i&(i-1) / how many 1 ...  |
 |[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.06 | change thought not Continuity than jump/reserve  |
-|[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)   |<ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.07 | need think others && find regular && sort+imb && vector+insert && beat97%   |
+|[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.07 | need think others && find regular && sort+imb && vector+insert && beat97%   |
+|[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)   |<ul><li>- [ ] </li></ul> | <ul><li>- [x] </li></ul> | 2017.02.10 | not through out ! && way is right |
 
 
 ---
