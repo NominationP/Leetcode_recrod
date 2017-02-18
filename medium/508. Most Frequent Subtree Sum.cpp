@@ -9,10 +9,48 @@
 //g++ -std=c++11 100.\ Same\ Tree.cpp -o demo
 
 using namespace std;
+
+
+class Solution {
+
+    int getSubtreeSum(unordered_map<int,int>& cnt, TreeNode* node){
+
+        if(!root) return 0;
+        node->val += getSubtreeSum(cnt,node->left);
+        node->val += getSubtreeSum(cnt,node->right);
+
+        cnt[node->val]++;
+    }
+public:
+    vector<int> findFrequentTreeSum(TreeNode* root) {
+
+        unordered_map<int,int> cnt;
+        vector<int> ret;
+        int maxFreq = INT_MIN;
+
+        getSubtreeSum(cnt,root);
+
+        for(auto i : cnt){
+            if(i.second > maxFreq){
+                maxFreq = i.second;
+            }
+        }
+
+        for(auto i : cnt){
+            if(i.second == maxFreq){
+                ret.push_back(i.first);
+            }
+        }
+
+        return ret;
+    }
+};
+
+
 /**
  * recus && unordered_map
  */
-class Solution {
+class Solution0 {
 
     int getSubtreeSum(unordered_map<int,int>& cnt, TreeNode* node){
         if(node == NULL) return 0;
@@ -102,6 +140,9 @@ public:
         return ans;
     }
 };
+
+
+
 
 
 int main()
