@@ -19,6 +19,7 @@
 |[508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.17 | dfs && recus && not clear through |
 |[515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.18 | dfs && recus && vector && dfs(deep++)__dfs(deep+1) |
 |[513. Find Bottom Left Tree Value](https://discuss.leetcode.com/topic/79901/513-c-easy-understand-dfs-vector)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.19 | dfs && recus && vector && like 515 504 |
+|[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.25 | tradition: unordered_map or ^... tip : 1 ≤ a[i] ≤ n && think difference ! |
 
 
 ---
