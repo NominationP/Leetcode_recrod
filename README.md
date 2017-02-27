@@ -20,6 +20,7 @@
 |[515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.18 | dfs && recus && vector && dfs(deep++)__dfs(deep+1) |
 |[513. Find Bottom Left Tree Value](https://discuss.leetcode.com/topic/79901/513-c-easy-understand-dfs-vector)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.19 | dfs && recus && vector && like 515 504 |
 |[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.25 | tradition: unordered_map or ^... tip : 1 ≤ a[i] ≤ n && think difference ! |
+|[462. Minimum Moves to Equal Array Elements II.cpp](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/?tab=Description)   |<ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.27 | purl math ,need to thing more ... |
 
 
 ---
@@ -43,7 +44,7 @@
 |[104. Maximum Depth of Binary Tree.cpp](https://leetcode.com/problems/maximum-depth-of-binary-tree/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.07 | xor
 |[389. Find the Difference.cpp](https://leetcode.com/problems/find-the-difference/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.08 | xor
 |[455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.08 | simple greed or nothing
-|[453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.09 | size-1 increment === only one decrement&&..
+|[453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)   |<ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> | 2017.01.09 | size-1 increment === only one decrement&&..
 |[383. Ransom Note.cpp](https://leetcode.com/problems/ransom-note/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.10 | map or vector to check if dup
 |[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.17 | tree && Recursion
 |[100. Same Tree](https://leetcode.com/problems/same-tree/)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.01.20 | tree && Recursion && oncepass so high !

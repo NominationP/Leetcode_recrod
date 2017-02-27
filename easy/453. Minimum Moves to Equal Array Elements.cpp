@@ -15,7 +15,9 @@ using namespace std;
  public:
 
     int minMoves(vector<int>& nums) {
-
+        // cout<<accumulate(begin(nums), end(nums), 0)<<endl;
+        // cout<<nums.size()<<endl;
+        // cout<<*min_element(begin(nums), end(nums))<<endl;
         return accumulate(begin(nums), end(nums), 0) - nums.size() * *min_element(begin(nums), end(nums));
     }
 
@@ -62,7 +64,7 @@ int main()
 
     Solution so ;
     // cout<<ee<<endl;
-    vector<int> v{1,2};
+    vector<int> v{2,2,3};
     cout<<so.minMoves(v);
 
     return 0;
