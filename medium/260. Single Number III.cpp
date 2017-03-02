@@ -17,17 +17,26 @@ using namespace std;
  vector<int> singleNumber(vector<int>& nums) {
 
     vector<int> res;
-    sort(nums.begin(),nums.end());
-    for(int i=0; i<nums.size()-1;){
-        if(nums[i]^nums[i+1]){
-            res.push_back(nums[i++]);
-        }else{
-            i+=2;
-        }
+    int rox = 0;
+    for(auto i : nums){
+        rox ^= i;
     }
-    for(auto i:res){
-        cout<<i<<endl;
-    }
+    int lastBit = (rox&(rox-1)^rox);
+    cout<<lastBit<<endl;
+    // sort(nums.begin(),nums.end());
+    // for(int i=0; i<nums.size();){
+    //     if(nums[i]^nums[i+1]){
+    //         res.push_back(nums[i++]);
+    //         if(i==nums.size()-1){
+    //             res.push_back(nums[i]);
+    //         }
+    //     }else{
+    //         i+=2;
+    //     }
+    // }
+    // for(auto i:res){
+    //     cout<<i<<endl;
+    // }
     return res;
     }
  };
@@ -35,7 +44,7 @@ using namespace std;
 
 int main()
 {
-    vector<int> v = vector<int>{1,2,3,4,5,1,2,5};
+    vector<int> v = vector<int>{1,2,2,3,4,3};
 
     Solution so ;
 
