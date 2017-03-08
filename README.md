@@ -21,6 +21,7 @@
 |[513. Find Bottom Left Tree Value](https://discuss.leetcode.com/topic/79901/513-c-easy-understand-dfs-vector)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.19 | dfs && recus && vector && like 515 504 |
 |[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.25 | tradition: unordered_map or ^... tip : 1 ≤ a[i] ≤ n && think difference ! |
 |[462. Minimum Moves to Equal Array Elements II.cpp](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/?tab=Description)   |<ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.27 | purl math ,need to thing more ... |
+|[526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.03.08 | dfs (**another look) && need to clear more |
 
 
 ---
