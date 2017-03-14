@@ -22,6 +22,12 @@ using namespace std;
         if(x.second>y.second) return false;
         return x.first < y.first;
     });
+
+    // for(auto i : people){
+    //     cout<<i.first<<" "<<i.second<<endl;
+    // }
+
+
     if(people.size()<=2) return people;
 
     re.push_back(people[0]);
