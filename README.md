@@ -22,6 +22,7 @@
 |[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.25 | tradition: unordered_map or ^... tip : 1 ≤ a[i] ≤ n && think difference ! |
 |[462. Minimum Moves to Equal Array Elements II.cpp](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/?tab=Description)   |<ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.02.27 | purl math ,need to thing more ... |
 |[526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/?tab=Description)   |<ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.03.08 | dfs (**another look) && need to clear more |
+|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description)   |<ul><li>- [] </li></ul> | <ul><li>- [ ] </li></ul> | 2017.05.22 | understand problem && c++ point list(new) && /10 %10 if?: |
 
 
 ---
