@@ -5,7 +5,7 @@
 
 using namespace std;
 
-class Solution {
+class Solution1 {
 public:
     int reverse(int x) {
         int ans = 0;
@@ -38,14 +38,13 @@ public:
     //         x = x/10;
     //         s.append(to_string(tep));
 
-    //     }
+    //     }dddd
 
     //     for (int i = 0; i < s.length(); i++)
     //         {
     //             s[i] = s.at(i) - '0';
-    //         }
-
-    //     cout<<StringToInt(s);
+    //         }ddddfdfef
+        //     cout<<StringToInt(s);
     //     return 0;
 
     // }
@@ -54,7 +53,7 @@ public:
 int main()
 {
 
-    Solution s ;
+    Solution1 s ;
     // cout<<ee<<endl;
 
     cout<<s.reverse(123);
