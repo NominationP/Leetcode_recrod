@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&&algorithm/list.cpp
+iostream
+-
+cstdlib
+-
+

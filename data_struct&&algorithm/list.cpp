@@ -21,11 +21,11 @@ public:
 
     LinkedList();
     ~LinkedList();
-    void add(int data);
+    void push_front(int data);
     void print();
 
-    /** 20171202 add */
-    void addx(int data);
+    /** 20171202 push_front */
+    void push_back(int data);
 };
 
 LinkedList::LinkedList(){
@@ -40,14 +40,14 @@ LinkedList::~LinkedList(){
     std::cout << "LIST DELETED";
 }
 /**
- * [LinkedList::add description]
+ * [LinkedList::push_front description]
  * @param data append front (push_front)          
  * 
  *     ?---2---1
  *     ----->this sort
  *     about a stack ? in first out second
  */
-void LinkedList::add(int data){
+void LinkedList::push_front(int data){
     Node* node = new Node();
     node->data = data;
     node->next = this->head;
@@ -55,16 +55,16 @@ void LinkedList::add(int data){
     this->length++;
 }
 /**
- * [LinkedList::add description]
+ * [LinkedList::push_front description]
  * @param data append back (push_back)          
  *             
  *           1---2---?
  *           ----->this sort
  *           this is formate for me 
- *           but Question is each addx will need find last element / or set a end-point in this class
+ *           but Question is each push_back will need find last element / or set a end-point in this class
  *                                    
  */
-void LinkedList::addx(int data){
+void LinkedList::push_back(int data){
     Node* node = new Node();
     node->data = data;
     node->next = NULL;
@@ -90,19 +90,21 @@ void LinkedList::print(){
     }
 }
 
+
+
 int main(int argc, char const *argv[])
 {
     LinkedList* list = new LinkedList();
 
-    list->addx(1);
-    list->addx(2);
-    list->addx(2);
-    list->add(4);
+    list->push_back(1);
+    list->push_back(2);
+    list->push_back(2);
+    list->push_front(4);
     list->print();
 
     // for (int i = 0; i < 100; ++i)
     // {
-    //     list->add(rand() % 100);
+    //     list->push_front(rand() % 100);
     // }
     // list->print();
     // std::cout << "List Length: " << list->length << std::endl;

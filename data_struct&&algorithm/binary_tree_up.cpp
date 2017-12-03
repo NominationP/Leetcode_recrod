@@ -19,13 +19,13 @@ public:
     void posttrav(tree *);
 };
 
-tree* Binary_tree::insert2(tree *temp, tree *newnode){
-    if(temp == NULL){
-        temp = newnode;
-    }else if(temp->info < newnode->info){
-        insert2(temp->Right,newnode);
-        if(temp->Right == NULL){
-            temp->Right = newnode
-        }
-    }
-}
+//tree* Binary_tree::insert2(tree *temp, tree *newnode){
+//    if(temp == NULL){
+//        temp = newnode;
+//    }else if(temp->info < newnode->info){
+//        insert2(temp->Right,newnode);
+//        if(temp->Right == NULL){
+//            temp->Right = newnode
+//        }
+//    }
+//}
