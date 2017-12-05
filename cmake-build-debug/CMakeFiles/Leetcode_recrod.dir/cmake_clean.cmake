@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/list.cpp.o"
+  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.o"
   "Leetcode_recrod.pdb"
   "Leetcode_recrod"
 )

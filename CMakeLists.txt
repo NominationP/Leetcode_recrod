@@ -3,11 +3,12 @@ project(Leetcode_recrod)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Leetcode_recrod
+add_executable(
+        Leetcode_recrod
 #        data_struct&&algorithm/binary_tree.cpp
 #        data_struct&&algorithm/binary_tree_up.cpp
 #        data_struct&&algorithm/dfs.cpp
-        data_struct&&algorithm/list.cpp
+#        data_struct&&algorithm/list.cpp
 #        "easy/100. Same Tree.cpp"
 #        "easy/104. Maximum Depth of Binary Tree.cpp"
 #        "easy/136. Single Number.cpp"
@@ -47,5 +48,14 @@ add_executable(Leetcode_recrod
 #        "medium/526. Beautiful Arrangement.cpp"
 #        "medium/535. Encode and Decode TinyURL.cpp"
 #        "run/1. Two Sum.cpp"
+#        "SwordOffer/Q/1 赋值运算符函数.cpp"
+#        "SwordOffer/Q/2 实现Singleton模式.cpp"
+#        SwordOffer/Q/26.complexListCopy.cpp
+#        SwordOffer/Q/27.binaryToList.cpp
+#        "SwordOffer/Q/3.find in [][].cpp"
+#        SwordOffer/Q/tree.h
+#        SwordOffer/model.cpp
 #        model.cpp
-        )
+#        SwordOffer/Q/2.3DataStructure/003__二维数组中的查找.cpp
+#        common.cpp
+        SwordOffer/Q/2.3DataStructure/004__替换空格.cpp)

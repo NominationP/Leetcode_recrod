@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-data_struct&&algorithm/list.o: data_struct&&algorithm/list.cpp.o
+SwordOffer/Q/2.3DataStructure/004__替换空格.o: SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.o
 
-.PHONY : data_struct&&algorithm/list.o
+.PHONY : SwordOffer/Q/2.3DataStructure/004__替换空格.o
 
 # target to build an object file
-data_struct&&algorithm/list.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/list.cpp.o"
-.PHONY : data_struct&&algorithm/list.cpp.o
+SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.o
+.PHONY : SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.o
 
-data_struct&&algorithm/list.i: data_struct&&algorithm/list.cpp.i
+SwordOffer/Q/2.3DataStructure/004__替换空格.i: SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.i
 
-.PHONY : data_struct&&algorithm/list.i
+.PHONY : SwordOffer/Q/2.3DataStructure/004__替换空格.i
 
 # target to preprocess a source file
-data_struct&&algorithm/list.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/list.cpp.i"
-.PHONY : data_struct&&algorithm/list.cpp.i
+SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.i
+.PHONY : SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.i
 
-data_struct&&algorithm/list.s: data_struct&&algorithm/list.cpp.s
+SwordOffer/Q/2.3DataStructure/004__替换空格.s: SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.s
 
-.PHONY : data_struct&&algorithm/list.s
+.PHONY : SwordOffer/Q/2.3DataStructure/004__替换空格.s
 
 # target to generate assembly for a file
-data_struct&&algorithm/list.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/list.cpp.s"
-.PHONY : data_struct&&algorithm/list.cpp.s
+SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.s
+.PHONY : SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... data_struct&&algorithm/list.o"
-	@echo "... data_struct&&algorithm/list.i"
-	@echo "... data_struct&&algorithm/list.s"
+	@echo "... SwordOffer/Q/2.3DataStructure/004__替换空格.o"
+	@echo "... SwordOffer/Q/2.3DataStructure/004__替换空格.i"
+	@echo "... SwordOffer/Q/2.3DataStructure/004__替换空格.s"
 .PHONY : help
 
 
