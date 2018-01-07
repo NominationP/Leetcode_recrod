@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/2.3DataStructure/004__替换空格.cpp" "/Users/yibo/Documents/cngu/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/004__替换空格.cpp.o"
+  "/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp" "/Users/yibo/Documents/cngu/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

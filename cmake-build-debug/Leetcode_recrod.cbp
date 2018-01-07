@@ -82,7 +82,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/2.3DataStructure/004__替换空格.cpp">
+		<Unit filename="/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp">
+			<Option target="Leetcode_recrod"/>
+		</Unit>
+		<Unit filename="/Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&amp;&amp;algorithm/list.h">
+			<Option target="Leetcode_recrod"/>
+		</Unit>
+		<Unit filename="/Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&amp;&amp;algorithm/tree.h">
 			<Option target="Leetcode_recrod"/>
 		</Unit>
 		<Unit filename="/Users/yibo/Documents/cngu/Leetcode_recrod/CMakeLists.txt">

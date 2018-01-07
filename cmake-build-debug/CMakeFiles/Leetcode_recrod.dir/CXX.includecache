@@ -6,19 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/2.3DataStructure/004__替换空格.cpp
+/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp
 iostream
 -
 vector
 -
-string
--
-stdint.h
--
-climits
--
-algorithm
--
-unordered_map
+stack
 -
 

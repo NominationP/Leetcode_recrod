@@ -8,7 +8,7 @@ add_executable(
 #        data_struct&&algorithm/binary_tree.cpp
 #        data_struct&&algorithm/binary_tree_up.cpp
 #        data_struct&&algorithm/dfs.cpp
-#        data_struct&&algorithm/list.cpp
+        data_struct&&algorithm/list.h
 #        "easy/100. Same Tree.cpp"
 #        "easy/104. Maximum Depth of Binary Tree.cpp"
 #        "easy/136. Single Number.cpp"
@@ -58,4 +58,12 @@ add_executable(
 #        model.cpp
 #        SwordOffer/Q/2.3DataStructure/003__二维数组中的查找.cpp
 #        common.cpp
-        SwordOffer/Q/2.3DataStructure/004__替换空格.cpp)
+#        SwordOffer/Q/2.3DataStructure/004__替换空格.cpp
+#        SwordOffer/Q/2.3DataStructure/005__从尾到头打印链表.cpp
+        data_struct&&algorithm/tree.h
+#        SwordOffer/Q/2.3DataStructure/006__重建二叉树.cpp
+#        SwordOffer/Q/2.3DataStructure/006__重建二叉树__2.cpp
+        SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp
+#        SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/Queue.h
+#        SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/QueueWithTwoStacks.cpp
+)
