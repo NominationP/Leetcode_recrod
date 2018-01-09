@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.o"
+  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.o"
   "Leetcode_recrod.pdb"
   "Leetcode_recrod"
 )

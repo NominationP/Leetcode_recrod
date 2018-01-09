@@ -63,7 +63,11 @@ add_executable(
         data_struct&&algorithm/tree.h
 #        SwordOffer/Q/2.3DataStructure/006__重建二叉树.cpp
 #        SwordOffer/Q/2.3DataStructure/006__重建二叉树__2.cpp
-        SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp
+#        SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp
 #        SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/Queue.h
 #        SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/QueueWithTwoStacks.cpp
-)
+#        SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/test.cpp
+#        SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test.cpp
+#        SwordOffer/Q/2.3DataStructure/08_MinNumberInRotatedArray/MinNumberInRotatedArray.cpp
+#        SwordOffer/Q/2.3DataStructure/08_MinNumberInRotatedArray/test.cpp
+        SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp)

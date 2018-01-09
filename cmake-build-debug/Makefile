@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.o: SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.o
+SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.o: SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.o
 
-.PHONY : SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.o
+.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.o
 
 # target to build an object file
-SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.o
-.PHONY : SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.o
+SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.o
+.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.o
 
-SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.i: SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.i
+SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.i: SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.i
 
-.PHONY : SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.i
+.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.i
 
 # target to preprocess a source file
-SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.i
-.PHONY : SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.i
+SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.i
+.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.i
 
-SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.s: SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.s
+SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.s: SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.s
 
-.PHONY : SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.s
+.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.s
 
 # target to generate assembly for a file
-SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.s
-.PHONY : SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.s
+SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.s
+.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.o"
-	@echo "... SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.i"
-	@echo "... SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.s"
+	@echo "... SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.o"
+	@echo "... SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.i"
+	@echo "... SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.s"
 .PHONY : help
 
 
