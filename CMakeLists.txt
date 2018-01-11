@@ -70,4 +70,5 @@ add_executable(
 #        SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test.cpp
 #        SwordOffer/Q/2.3DataStructure/08_MinNumberInRotatedArray/MinNumberInRotatedArray.cpp
 #        SwordOffer/Q/2.3DataStructure/08_MinNumberInRotatedArray/test.cpp
-        SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp)
+#        SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp
+        SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp)

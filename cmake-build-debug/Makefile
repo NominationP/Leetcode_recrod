@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.o: SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.o
+SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.o: SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.o
 
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.o
+.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.o
 
 # target to build an object file
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.o
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.o
+SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.o
+.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.o
 
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.i: SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.i
+SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.i: SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.i
 
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.i
+.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.i
 
 # target to preprocess a source file
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.i
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.i
+SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.i
+.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.i
 
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.s: SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.s
+SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.s: SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.s
 
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.s
+.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.s
 
 # target to generate assembly for a file
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.s
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp.s
+SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.s
+.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.o"
-	@echo "... SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.i"
-	@echo "... SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.s"
+	@echo "... SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.o"
+	@echo "... SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.i"
+	@echo "... SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.s"
 .PHONY : help
 
 
