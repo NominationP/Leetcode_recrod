@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp">
+		<Unit filename="/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/3 Capter/13_DeleteNodeInList/DeleteNodeInList.cpp">
 			<Option target="Leetcode_recrod"/>
 		</Unit>
 		<Unit filename="/Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&amp;&amp;algorithm/list.h">

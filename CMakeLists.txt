@@ -71,4 +71,9 @@ add_executable(
 #        SwordOffer/Q/2.3DataStructure/08_MinNumberInRotatedArray/MinNumberInRotatedArray.cpp
 #        SwordOffer/Q/2.3DataStructure/08_MinNumberInRotatedArray/test.cpp
 #        SwordOffer/Q/2.3DataStructure/09_Fibonacci/Fibonacci.cpp
-        SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp)
+#        SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp
+#        SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/test.cpp
+#        "SwordOffer/Q/3 Capter/11_Power/11_Power.cpp"
+#        "SwordOffer/Q/3 Capter/11_Power/test.cpp"
+#        "SwordOffer/Q/3 Capter/12_Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.cpp"
+        "SwordOffer/Q/3 Capter/13_DeleteNodeInList/DeleteNodeInList.cpp")

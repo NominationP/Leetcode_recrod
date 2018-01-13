@@ -32,6 +32,9 @@ public:
     /** 20171212 reversal_print*/
     void printListReversingly_Iteratively();
     void printListReversingly_Recursively(Node* head);
+
+    /** 20180113 */
+    void deleteNodeInList(Node* head, Node* del_node);
 };
 
 LinkedList::LinkedList(){
@@ -239,6 +242,33 @@ void LinkedList::printListReversingly_Recursively(Node* head) {
     cout<<head->data<<endl;
 
 
+}
+
+
+void deleteNodeInList(Node* head , Node* del_node){
+
+    if(!head || !del_node){
+        return;
+    }
+
+    /**
+     * 要删除的节点不是尾节点
+     */
+    if(del_node->next){
+
+    }
+    /**
+     * list size == 1 and del_node is it
+     */
+    else if(head == del_node){
+
+    }
+    /**
+     * list size > 1 and del_node is tail node
+     */
+    else{
+
+    }
 }
 
 //int main(int argc, char const *argv[])

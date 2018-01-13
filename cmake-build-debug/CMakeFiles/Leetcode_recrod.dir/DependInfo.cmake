@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp" "/Users/yibo/Documents/cngu/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.o"
+  "/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/3 Capter/13_DeleteNodeInList/DeleteNodeInList.cpp" "/Users/yibo/Documents/cngu/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

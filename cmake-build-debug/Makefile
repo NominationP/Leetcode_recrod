@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.o: SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.o
+SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.o: SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.o
 
-.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.o
+.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.o
 
 # target to build an object file
-SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.o
-.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.o
+SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.o
+.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.o
 
-SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.i: SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.i
+SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.i: SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.i
 
-.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.i
+.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.i
 
 # target to preprocess a source file
-SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.i
-.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.i
+SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.i
+.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.i
 
-SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.s: SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.s
+SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.s: SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.s
 
-.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.s
+.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.s
 
 # target to generate assembly for a file
-SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.s
-.PHONY : SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp.s
+SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.s
+.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.o"
-	@echo "... SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.i"
-	@echo "... SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.s"
+	@echo "... SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.o"
+	@echo "... SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.i"
+	@echo "... SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.s"
 .PHONY : help
 
 

@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp
+/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/3 Capter/13_DeleteNodeInList/DeleteNodeInList.cpp
 iostream
+-
+../../../../data_struct&&algorithm/list.h
+/Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&&algorithm/list.h
+
+/Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&&algorithm/list.h
+iostream
+-
+cstdlib
+-
+stack
 -
 
