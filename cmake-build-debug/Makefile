@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.o: SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.o
+SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.o: SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.o
 
-.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.o
+.PHONY : SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.o
 
 # target to build an object file
-SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.o
-.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.o
+SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.o
+.PHONY : SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.o
 
-SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.i: SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.i
+SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.i: SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.i
 
-.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.i
+.PHONY : SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.i
 
 # target to preprocess a source file
-SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.i
-.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.i
+SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.i
+.PHONY : SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.i
 
-SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.s: SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.s
+SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.s: SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.s
 
-.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.s
+.PHONY : SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.s
 
 # target to generate assembly for a file
-SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.s
-.PHONY : SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.cpp.s
+SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.s
+.PHONY : SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.o"
-	@echo "... SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.i"
-	@echo "... SwordOffer/Q/3_Capter/13_DeleteNodeInList/DeleteNodeInList.s"
+	@echo "... SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.o"
+	@echo "... SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.i"
+	@echo "... SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.s"
 .PHONY : help
 
 

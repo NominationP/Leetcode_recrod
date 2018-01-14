@@ -76,4 +76,8 @@ add_executable(
 #        "SwordOffer/Q/3 Capter/11_Power/11_Power.cpp"
 #        "SwordOffer/Q/3 Capter/11_Power/test.cpp"
 #        "SwordOffer/Q/3 Capter/12_Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.cpp"
-        "SwordOffer/Q/3 Capter/13_DeleteNodeInList/DeleteNodeInList.cpp")
+#        "SwordOffer/Q/3 Capter/13_DeleteNodeInList/DeleteNodeInList.cpp"
+#        "SwordOffer/Q/3 Capter/12_Print1ToMaxOfNDigits/test.cpp"
+#        "SwordOffer/Q/3 Capter/13_DeleteNodeInList/test.cpp"
+#        "SwordOffer/Q/3 Capter/14_RecroderArray/RecorderArray.cpp"
+        "SwordOffer/Q/3 Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp")

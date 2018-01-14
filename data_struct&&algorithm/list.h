@@ -34,7 +34,8 @@ public:
     void printListReversingly_Recursively(Node* head);
 
     /** 20180113 */
-    void deleteNodeInList(Node* head, Node* del_node);
+    void deleteNodeInList(Node** head, Node* del_node);
+    void deleteNodeTest(Node** head, Node* del_node);
 };
 
 LinkedList::LinkedList(){
@@ -245,7 +246,7 @@ void LinkedList::printListReversingly_Recursively(Node* head) {
 }
 
 
-void deleteNodeInList(Node* head , Node* del_node){
+void deleteNodeInList(Node** head , Node* del_node){
 
     if(!head || !del_node){
         return;
@@ -254,19 +255,38 @@ void deleteNodeInList(Node* head , Node* del_node){
     /**
      * 要删除的节点不是尾节点
      */
-    if(del_node->next){
+    if(del_node->next != NULL){
+
+        Node* del_tmp = del_node->next;
+        del_node->data = del_node->next->data;
+        del_node->next = del_node->next;
+
+        delete del_tmp;
+        del_tmp = NULL; // why ?
 
     }
     /**
      * list size == 1 and del_node is it
      */
-    else if(head == del_node){
+    else if(*head == del_node){
 
+        delete del_node;
+        del_node = NULL;
+        *head = NULL;
     }
     /**
      * list size > 1 and del_node is tail node
      */
     else{
+
+        Node* pNode= *head;
+        while(pNode->next != del_node){
+            pNode = pNode->next;
+        }
+
+        pNode->next = NULL;
+        delete del_node;
+        del_node = NULL;
 
     }
 }
