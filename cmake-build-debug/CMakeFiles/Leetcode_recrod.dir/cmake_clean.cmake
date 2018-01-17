@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.o"
+  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.o"
   "Leetcode_recrod.pdb"
   "Leetcode_recrod"
 )

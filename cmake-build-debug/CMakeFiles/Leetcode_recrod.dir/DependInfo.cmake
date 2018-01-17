@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/3 Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp" "/Users/yibo/Documents/cngu/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.o"
+  "/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/3 Capter/17_MergeSortedLists/MergeSortedList.cpp" "/Users/yibo/Documents/cngu/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
