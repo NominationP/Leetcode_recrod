@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/3 Capter/17_MergeSortedLists/MergeSortedList.cpp
+iostream
+-
+../../../../data_struct&&algorithm/list.h
+/Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&&algorithm/list.h
+
+/Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&&algorithm/list.h
+iostream
+-
+cstdlib
+-
+stack
+-
+
