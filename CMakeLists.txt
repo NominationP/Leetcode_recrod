@@ -86,4 +86,6 @@ add_executable(
 #        "SwordOffer/Q/3 Capter/16_ReverseList/ReverseList.cpp"
 #        "SwordOffer/Q/3 Capter/17_MergeSortedLists/MergeSortedList.cpp"
 #        "SwordOffer/Q/3 Capter/16_ReverseList/test.cpp"
+#        "SwordOffer/Q/3 Capter/17_MergeSortedLists/test.cpp"
+#        "SwordOffer/Q/3 Capter/16_ReverseList/test.cpp"
         "SwordOffer/Q/3 Capter/17_MergeSortedLists/test.cpp")
