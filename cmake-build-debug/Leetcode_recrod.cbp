@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/3 Capter/17_MergeSortedLists/MergeSortedList.cpp">
+		<Unit filename="/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/3 Capter/17_MergeSortedLists/test.cpp">
 			<Option target="Leetcode_recrod"/>
 		</Unit>
 		<Unit filename="/Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&amp;&amp;algorithm/list.h">

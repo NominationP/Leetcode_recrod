@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.o: SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.o
+SwordOffer/Q/3_Capter/17_MergeSortedLists/test.o: SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.o
 
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.o
+.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.o
 
 # target to build an object file
-SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.o
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.o
+SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.o
+.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.o
 
-SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.i: SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.i
+SwordOffer/Q/3_Capter/17_MergeSortedLists/test.i: SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.i
 
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.i
+.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.i
 
 # target to preprocess a source file
-SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.i
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.i
+SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.i
+.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.i
 
-SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.s: SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.s
+SwordOffer/Q/3_Capter/17_MergeSortedLists/test.s: SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.s
 
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.s
+.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.s
 
 # target to generate assembly for a file
-SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.s
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.s
+SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.s
+.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.o"
-	@echo "... SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.i"
-	@echo "... SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.s"
+	@echo "... SwordOffer/Q/3_Capter/17_MergeSortedLists/test.o"
+	@echo "... SwordOffer/Q/3_Capter/17_MergeSortedLists/test.i"
+	@echo "... SwordOffer/Q/3_Capter/17_MergeSortedLists/test.s"
 .PHONY : help
 
 
