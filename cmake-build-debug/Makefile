@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/3_Capter/17_MergeSortedLists/test.o: SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.o
+SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.o: SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.o
 
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.o
+.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.o
 
 # target to build an object file
-SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.o
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.o
+SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.o
+.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.o
 
-SwordOffer/Q/3_Capter/17_MergeSortedLists/test.i: SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.i
+SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.i: SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.i
 
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.i
+.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.i
 
 # target to preprocess a source file
-SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.i
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.i
+SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.i
+.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.i
 
-SwordOffer/Q/3_Capter/17_MergeSortedLists/test.s: SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.s
+SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.s: SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.s
 
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.s
+.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.s
 
 # target to generate assembly for a file
-SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.s
-.PHONY : SwordOffer/Q/3_Capter/17_MergeSortedLists/test.cpp.s
+SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.s
+.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/3_Capter/17_MergeSortedLists/test.o"
-	@echo "... SwordOffer/Q/3_Capter/17_MergeSortedLists/test.i"
-	@echo "... SwordOffer/Q/3_Capter/17_MergeSortedLists/test.s"
+	@echo "... SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.o"
+	@echo "... SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.i"
+	@echo "... SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.s"
 .PHONY : help
 
 
