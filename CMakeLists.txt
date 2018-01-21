@@ -90,4 +90,7 @@ add_executable(
 #        "SwordOffer/Q/3 Capter/16_ReverseList/test.cpp"
 #        "SwordOffer/Q/3 Capter/17_MergeSortedLists/test.cpp"
 #        "SwordOffer/Q/3 Capter/18_SubstructureInTree/SubstructureInTree.cpp"
-        "SwordOffer/Q/4 Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp")
+#        "SwordOffer/Q/4 Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp"
+#        "SwordOffer/Q/4 Capter/19_MirrorOfBinaryTree/test.cpp"
+#        "SwordOffer/Q/3 Capter/18_SubstructureInTree/test.cpp"
+        "SwordOffer/Q/4 Capter/20_PrintMatrix/PrintMatrix.cpp")

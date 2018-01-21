@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.o: SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.o
+SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.o: SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.o
 
-.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.o
+.PHONY : SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.o
 
 # target to build an object file
-SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.o
-.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.o
+SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.o
+.PHONY : SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.o
 
-SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.i: SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.i
+SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.i: SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.i
 
-.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.i
+.PHONY : SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.i
 
 # target to preprocess a source file
-SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.i
-.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.i
+SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.i
+.PHONY : SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.i
 
-SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.s: SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.s
+SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.s: SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.s
 
-.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.s
+.PHONY : SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.s
 
 # target to generate assembly for a file
-SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.s
-.PHONY : SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp.s
+SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.s
+.PHONY : SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.o"
-	@echo "... SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.i"
-	@echo "... SwordOffer/Q/4_Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.s"
+	@echo "... SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.o"
+	@echo "... SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.i"
+	@echo "... SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.s"
 .PHONY : help
 
 
