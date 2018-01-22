@@ -93,4 +93,7 @@ add_executable(
 #        "SwordOffer/Q/4 Capter/19_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp"
 #        "SwordOffer/Q/4 Capter/19_MirrorOfBinaryTree/test.cpp"
 #        "SwordOffer/Q/3 Capter/18_SubstructureInTree/test.cpp"
-        "SwordOffer/Q/4 Capter/20_PrintMatrix/PrintMatrix.cpp")
+#        "SwordOffer/Q/4 Capter/20_PrintMatrix/PrintMatrix.cpp"
+#        "SwordOffer/Q/4 Capter/21_MinInStack/MInInStack.cpp"
+#        "SwordOffer/Q/4 Capter/21_MinInStack/StackWithMin.h"
+        "SwordOffer/Q/4 Capter/22_StackPushPopOrder/StackPushPopOrder.cpp")

@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/4 Capter/20_PrintMatrix/PrintMatrix.cpp
+/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/4 Capter/22_StackPushPopOrder/StackPushPopOrder.cpp
 cstdio
+-
+stack
 -
 
