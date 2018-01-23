@@ -54,6 +54,9 @@ public:
     void preorder_traWhile();
     void postorder_traWhile();
 
+    /** 23_PrintFromTopToBottom */
+    void PrintFromTopToBottom(node *root);
+
 private:
     void destroy_tree(node *leaf);
     void insert(int key, node *leaf);
