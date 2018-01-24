@@ -100,4 +100,5 @@ add_executable(
 #        "SwordOffer/Q/4 Capter/22_StackPushPopOrder/test.cpp"
 #        "SwordOffer/Q/4 Capter/21_MinInStack/test.cpp"
 #        "SwordOffer/Q/4 Capter/21_MinInStack/test.h"
-        "SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/PrintFromTopToBottom.cpp")
+#        "SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/PrintFromTopToBottom.cpp"
+        "SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/test.cpp")
