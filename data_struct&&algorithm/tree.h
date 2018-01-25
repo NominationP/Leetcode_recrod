@@ -54,8 +54,14 @@ public:
     void preorder_traWhile();
     void postorder_traWhile();
 
+    /** 6_ContructBinaryTree */
+    node* ContructBinaryTree(int preOrderp[], int inOrder[], int length);
+    node* ContructBinaryTreeCore(int* startPre, int* endPre , int* startIn, int* endIn );
+
     /** 23_PrintFromTopToBottom */
     void PrintFromTopToBottom(node *root);
+    /** 24_SquenceOfBST */
+    bool SquenceOfBST(int sequence[], int length);
 
 private:
     void destroy_tree(node *leaf);

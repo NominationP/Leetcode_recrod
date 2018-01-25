@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.o: SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.o
+SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.o: SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.o
 
-.PHONY : SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.o
+.PHONY : SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.o
 
 # target to build an object file
-SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.o
-.PHONY : SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.o
+SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.o
+.PHONY : SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.o
 
-SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.i: SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.i
+SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.i: SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.i
 
-.PHONY : SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.i
+.PHONY : SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.i
 
 # target to preprocess a source file
-SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.i
-.PHONY : SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.i
+SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.i
+.PHONY : SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.i
 
-SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.s: SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.s
+SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.s: SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.s
 
-.PHONY : SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.s
+.PHONY : SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.s
 
 # target to generate assembly for a file
-SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.s
-.PHONY : SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.cpp.s
+SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.s
+.PHONY : SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.o"
-	@echo "... SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.i"
-	@echo "... SwordOffer/Q/4_Capter/23_PrintFromTopToBottom/test.s"
+	@echo "... SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.o"
+	@echo "... SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.i"
+	@echo "... SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.s"
 .PHONY : help
 
 
