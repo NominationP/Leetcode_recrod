@@ -14,16 +14,56 @@
     <list default="true" id="2d9b8f47-3473-46b2-80ce-8d56b211493f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CMakeCCompiler.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CMakeSystem.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdC/a.out" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdC/a.out" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdCXX/a.out" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdCXX/a.out" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/CXX.includecache" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/005__从尾到头打印链表.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/006__重建二叉树.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/006__重建二叉树__2.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/QueueWithTwoStacks.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/3二维数组中的查找.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/11_Power/11_Power.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/12_Print1ToMaxOfNDigits/Print1ToMaxOfNDigits.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/15_KthNodeFromEnd/KthNodeFromEnd.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/16_ReverseList/ReverseList.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/3_Capter/17_MergeSortedLists/MergeSortedList.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/20_PrintMatrix/PrintMatrix.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/22_StackPushPopOrder/StackPushPopOrder.cpp.o" afterPath="" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/build.make" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/data_struct&amp;&amp;algorithm/binary_tree.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/data_struct&amp;&amp;algorithm/binary_tree_up.cpp.o" afterPath="" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/depend.internal" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/100._Same_Tree.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/104._Maximum_Depth_of_Binary_Tree.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/136._Single_Number.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/167._Two_Sum_II_-_Input_array_is_sorted.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/2._Add_Two_Numbers.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/387._First_Unique_Character_in_a_String.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/389._Find_the_Difference.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/404._Sum_of_Left_Leaves.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/412._Fizz_Buzz.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/448._Find_All_Numbers_Disappeared_in_an_Array.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/455._Assign_Cookies.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/461._Hamming_Distance.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/easy/463._Island_Perimeter.cpp.o" afterPath="" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Leetcode_recrod" afterPath="$PROJECT_DIR$/cmake-build-debug/Leetcode_recrod" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Leetcode_recrod.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/Leetcode_recrod.cbp" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
       <change beforePath="$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h" afterPath="$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -43,8 +83,8 @@
       <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1178">
-              <caret line="62" column="37" lean-forward="true" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
+            <state relative-caret-position="817">
+              <caret line="108" column="9" lean-forward="false" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -53,50 +93,25 @@
       <file leaf-file-name="tree.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
+            <state relative-caret-position="19">
               <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="test2.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp">
+        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/test2.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="33" column="2" lean-forward="false" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="003__二维数组中的查找.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/003__二维数组中的查找.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="65" column="20" lean-forward="false" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintFromTopToBottom.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/PrintFromTopToBottom.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="57" selection-end-column="1" />
+            <state relative-caret-position="38">
+              <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding>
                 <element signature="e#41#60#0" expanded="true" />
+                <element signature="e#110#122#0" expanded="true" />
+                <element signature="e#297#309#0" expanded="true" />
+                <element signature="e#342#354#0" expanded="true" />
+                <element signature="e#390#402#0" expanded="true" />
+                <element signature="e#483#495#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,8 +120,20 @@
       <file leaf-file-name="test.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/test.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="467">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding>
+                <element signature="e#41#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintFromTopToBottom.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/PrintFromTopToBottom.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="52" selection-start-column="21" selection-end-line="57" selection-end-column="0" />
               <folding>
                 <element signature="e#41#60#0" expanded="true" />
               </folding>
@@ -117,8 +144,8 @@
       <file leaf-file-name="SquenceOfBST.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/24_SquenceOfBST/SquenceOfBST.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="120" column="1" lean-forward="false" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
+            <state relative-caret-position="664">
+              <caret line="66" column="3" lean-forward="false" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -127,10 +154,44 @@
       <file leaf-file-name="006__重建二叉树.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/006__重建二叉树.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
+            <state relative-caret-position="625">
               <caret line="135" column="13" lean-forward="false" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="006__重建二叉树__2.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/006__重建二叉树__2.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathInTree.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/25_PathInTree/PathInTree.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="903">
+              <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+              <folding>
+                <element signature="e#41#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.php.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/24_SquenceOfBST/test.php.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+              <folding>
+                <element signature="e#41#60#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -154,9 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/005__从尾到头打印链表.cpp" />
-        <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/006__重建二叉树.cpp" />
-        <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/006__重建二叉树__2.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/007__用俩个栈实现队列.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/QueueWithTwoStacks.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/test.cpp" />
@@ -201,10 +259,13 @@
         <option value="$PROJECT_DIR$/SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/PrintFromTopToBottom.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/test.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/4 Capter/24_SquenceOfBST/SquenceOfBST.cpp" />
-        <option value="$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp" />
+        <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/test2.cpp" />
+        <option value="$PROJECT_DIR$/SwordOffer/Q/4 Capter/24_SquenceOfBST/test.php.cpp" />
+        <option value="$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/SwordOffer/Q/4 Capter/25_PathInTree/PathInTree.cpp" />
       </list>
     </option>
   </component>
@@ -302,94 +363,7 @@
               <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
               <item name="Q" type="462c0819:PsiDirectoryNode" />
               <item name="2.3DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="08_MinNumberInRotatedArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="2.3DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="09_Fibonacci" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="2.3DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="10_NumberOf1InBinary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="3 Capter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="3 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="11_Power" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="3 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="12_Print1ToMaxOfNDigits" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="3 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="13_DeleteNodeInList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="3 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="14_RecroderArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="3 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="15_KthNodeFromEnd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="3 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="16_ReverseList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="3 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="17_MergeSortedLists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="3 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="18_SubstructureInTree" type="462c0819:PsiDirectoryNode" />
+              <item name="07_QueueWithTwoStacks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
@@ -397,38 +371,6 @@
               <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
               <item name="Q" type="462c0819:PsiDirectoryNode" />
               <item name="4 Capter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="4 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="19_MirrorOfBinaryTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="4 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="20_PrintMatrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="4 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="21_MinInStack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
-              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="Q" type="462c0819:PsiDirectoryNode" />
-              <item name="4 Capter" type="462c0819:PsiDirectoryNode" />
-              <item name="22_StackPushPopOrder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
@@ -451,6 +393,14 @@
               <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
               <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
               <item name="Q" type="462c0819:PsiDirectoryNode" />
+              <item name="4 Capter" type="462c0819:PsiDirectoryNode" />
+              <item name="25_PathInTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
+              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="Q" type="462c0819:PsiDirectoryNode" />
               <item name="demo.dSYM" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -464,7 +414,7 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="ObjectiveC" />
-    <property name="SearchEverywhereHistoryKey" value="tre&#9;FILE&#9;file:///Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&amp;&amp;algorithm/tree.h&#10;tree&#9;FILE&#9;file:///Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&amp;&amp;algorithm/tree.h&#10;inorder_traRecursive_show&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="tre&#9;FILE&#9;file:///Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&amp;&amp;algorithm/tree.h&#10;tree&#9;FILE&#9;file:///Users/yibo/Documents/cngu/Leetcode_recrod/data_struct&amp;&amp;algorithm/tree.h&#10;inorder_traRecursive_show&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -536,22 +486,24 @@
       <workItem from="1515837571783" duration="36056000" />
       <workItem from="1516522254449" duration="14440000" />
       <workItem from="1516875567081" duration="6455000" />
+      <workItem from="1516963688850" duration="5381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160931000" />
+    <option name="totallyTimeSpent" value="166312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15595238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845187" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28033474" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28033474" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -604,47 +556,17 @@
           <line>18</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/24_SquenceOfBST/test.php.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="43" />
+      <option name="time" value="44" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/QueueWithTwoStacks.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/Queue.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="15" lean-forward="false" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="10" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/3 Capter/11_Power/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-27">
@@ -893,7 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -901,15 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -922,77 +834,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/003__二维数组中的查找.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
+        <state relative-caret-position="1235">
           <caret line="65" column="20" lean-forward="false" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/PrintFromTopToBottom.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="57" selection-end-column="1" />
-          <folding>
-            <element signature="e#41#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/24_SquenceOfBST/SquenceOfBST.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="120" column="1" lean-forward="false" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#41#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/006__重建二叉树.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="135" column="13" lean-forward="false" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/006__重建二叉树__2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="49" column="80" lean-forward="true" selection-start-line="49" selection-start-column="80" selection-end-line="49" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="62" column="37" lean-forward="true" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="627">
           <caret line="33" column="2" lean-forward="false" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
           <folding />
         </state>
@@ -1008,9 +858,135 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="333">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="59" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/Queue.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="56" column="15" lean-forward="false" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/007__用俩个栈实现队列.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="49" />
+          <folding>
+            <element signature="e#358#370#0" expanded="false" />
+            <element signature="e#407#419#0" expanded="false" />
+            <element signature="e#458#470#0" expanded="false" />
+            <element signature="e#554#566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/test2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+            <element signature="e#110#122#0" expanded="true" />
+            <element signature="e#297#309#0" expanded="true" />
+            <element signature="e#342#354#0" expanded="true" />
+            <element signature="e#390#402#0" expanded="true" />
+            <element signature="e#483#495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/24_SquenceOfBST/SquenceOfBST.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="66" column="3" lean-forward="false" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/24_SquenceOfBST/test.php.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/006__重建二叉树.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="135" column="13" lean-forward="false" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/006__重建二叉树__2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/PrintFromTopToBottom.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="52" selection-start-column="21" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="108" column="9" lean-forward="false" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/25_PathInTree/PathInTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding>
+            <element signature="e#41#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

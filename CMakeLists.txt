@@ -103,5 +103,7 @@ add_executable(
 #        "SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/PrintFromTopToBottom.cpp"
 #        "SwordOffer/Q/4 Capter/23_PrintFromTopToBottom/test.cpp"
 #        "SwordOffer/Q/4 Capter/24_SquenceOfBST/SquenceOfBST.cpp"
-        SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp
-)
+#        SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp
+#        SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/test2.cpp
+#        "SwordOffer/Q/4 Capter/24_SquenceOfBST/test.php.cpp"
+        "SwordOffer/Q/4 Capter/25_PathInTree/PathInTree.cpp")

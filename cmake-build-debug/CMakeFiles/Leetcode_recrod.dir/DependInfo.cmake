@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/yibo/Documents/cngu/Leetcode_recrod/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp" "/Users/yibo/Documents/cngu/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.o"
+  "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/4 Capter/25_PathInTree/PathInTree.cpp" "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/25_PathInTree/PathInTree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

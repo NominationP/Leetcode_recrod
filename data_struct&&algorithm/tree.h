@@ -62,6 +62,8 @@ public:
     void PrintFromTopToBottom(node *root);
     /** 24_SquenceOfBST */
     bool SquenceOfBST(int sequence[], int length);
+    /** 25_PathInTree */
+    void PathInTree(node* root,int expectedSum);
 
 private:
     void destroy_tree(node *leaf);

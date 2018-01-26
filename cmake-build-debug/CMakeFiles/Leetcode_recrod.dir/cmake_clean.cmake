@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp.o"
+  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/25_PathInTree/PathInTree.cpp.o"
   "Leetcode_recrod.pdb"
   "Leetcode_recrod"
 )
