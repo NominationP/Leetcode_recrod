@@ -7,6 +7,9 @@ class Node
 public:
     Node* next;
     int data;
+
+    /** 20180127 26.CopyComplexList*/
+    Node* sibling;
 };
 
 using namespace std;
@@ -32,10 +35,13 @@ public:
     /** 20171212 reversal_print*/
     void printListReversingly_Iteratively();
     void printListReversingly_Recursively(Node* head);
+    /** 20180127 26.CopyComplexList */
+    Node* CopyComplexList(Node* head);
 
     /** 20180113 */
     void deleteNodeInList(Node** head, Node* del_node);
     void deleteNodeTest(Node** head, Node* del_node);
+
 };
 
 LinkedList::LinkedList(){

@@ -106,4 +106,8 @@ add_executable(
 #        SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp
 #        SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/test2.cpp
 #        "SwordOffer/Q/4 Capter/24_SquenceOfBST/test.php.cpp"
-        "SwordOffer/Q/4 Capter/25_PathInTree/PathInTree.cpp")
+#        "SwordOffer/Q/4 Capter/25_PathInTree/PathInTree.cpp"
+#        "SwordOffer/Q/4 Capter/25_PathInTree/test.cpp"
+#        "SwordOffer/Q/4 Capter/26_CopyComplexList/CopyComplexList.cpp"
+#        "SwordOffer/Q/4 Capter/26_CopyComplexList/ComplexList.h"
+        "SwordOffer/Q/4 Capter/27_ConvertBinarySearchTree/ConvertBianrySearchTree.cpp")

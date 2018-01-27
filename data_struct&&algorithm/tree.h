@@ -64,6 +64,8 @@ public:
     bool SquenceOfBST(int sequence[], int length);
     /** 25_PathInTree */
     void PathInTree(node* root,int expectedSum);
+    /** 27_ConvertBianrySearchTree */
+    node* ConvertBianrySearchTree(node* root);
 
 private:
     void destroy_tree(node *leaf);
