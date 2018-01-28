@@ -28,6 +28,9 @@ public:
     void push_front(int data);
     void print();
 
+    /** 20180128 print(head) */
+    void print(Node* head);
+
     /** 20171202 push_front */
     void push_back(int data);
     /** 20171212 removeNode */
@@ -186,6 +189,15 @@ void LinkedList::removeNode(int data){
 
 void LinkedList::print(){
     Node* head = this->head;
+    int i = 1;
+    while(head){
+        std::cout << i << ": " << head->data << std::endl;
+        head = head->next;
+        i++;
+    }
+}
+
+void LinkedList::print(Node *head) {
     int i = 1;
     while(head){
         std::cout << i << ": " << head->data << std::endl;

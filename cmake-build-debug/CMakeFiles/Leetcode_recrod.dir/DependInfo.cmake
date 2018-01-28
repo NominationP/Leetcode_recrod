@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/4 Capter/27_ConvertBinarySearchTree/ConvertBianrySearchTree.cpp" "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/27_ConvertBinarySearchTree/ConvertBianrySearchTree.cpp.o"
+  "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp" "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

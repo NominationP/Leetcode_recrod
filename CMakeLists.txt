@@ -110,4 +110,10 @@ add_executable(
 #        "SwordOffer/Q/4 Capter/25_PathInTree/test.cpp"
 #        "SwordOffer/Q/4 Capter/26_CopyComplexList/CopyComplexList.cpp"
 #        "SwordOffer/Q/4 Capter/26_CopyComplexList/ComplexList.h"
-        "SwordOffer/Q/4 Capter/27_ConvertBinarySearchTree/ConvertBianrySearchTree.cpp")
+#        "SwordOffer/Q/4 Capter/27_ConvertBinarySearchTree/ConvertBianrySearchTree.cpp"
+#        "SwordOffer/Q/4 Capter/26_CopyComplexList/test.cpp"
+#        "SwordOffer/Q/4 Capter/27_ConvertBinarySearchTree/test.cpp"
+#        "SwordOffer/Q/4 Capter/28_StringPermutation/StringPermutation.cpp"
+        "SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp"
+        data_struct&&algorithm/sort/QuickSort.h
+)

@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/4 Capter/27_ConvertBinarySearchTree/ConvertBianrySearchTree.cpp
-../../../../data_struct&&algorithm/tree.h
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/tree.h
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp
+../../../../data_struct&&algorithm/sort/QuickSort.h
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/sort/QuickSort.h
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/tree.h
-clocale
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/sort/QuickSort.h
+cstdlib
+-
+exception
 -
 iostream
--
-stack
 -
 
