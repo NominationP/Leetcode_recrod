@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.o: SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.o
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.o: SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.o
 
-.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.o
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.o
 
 # target to build an object file
-SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.o
-.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.o
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.o
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.o
 
-SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.i: SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.i
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.i: SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.i
 
-.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.i
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.i
 
 # target to preprocess a source file
-SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.i
-.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.i
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.i
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.i
 
-SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.s: SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.s
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.s: SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.s
 
-.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.s
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.s
 
 # target to generate assembly for a file
-SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.s
-.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp.s
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.s
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.o"
-	@echo "... SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.i"
-	@echo "... SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.s"
+	@echo "... SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.o"
+	@echo "... SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.i"
+	@echo "... SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test.s"
 .PHONY : help
 
 
