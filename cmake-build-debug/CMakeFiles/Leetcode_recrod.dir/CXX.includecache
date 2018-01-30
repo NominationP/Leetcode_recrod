@@ -6,8 +6,22 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/test.cpp
-algorithm
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/30_KLeastNumbers/KLeastNumbers.cpp
+iostream
+-
+exception
+-
+vector
+-
+set
+-
+../../../../data_struct&&algorithm/sort/QuickSort.h
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/sort/QuickSort.h
+
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/sort/QuickSort.h
+cstdlib
+-
+exception
 -
 iostream
 -

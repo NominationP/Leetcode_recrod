@@ -115,6 +115,8 @@ add_executable(
 #        "SwordOffer/Q/4 Capter/27_ConvertBinarySearchTree/test.cpp"
 #        "SwordOffer/Q/4 Capter/28_StringPermutation/StringPermutation.cpp"
 #        "SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/MoreThanHalfNumber.cpp"
-#        data_struct&&algorithm/sort/QuickSort.h
+        data_struct&&algorithm/sort/QuickSort.h
 #        SwordOffer/Q/2.3DataStructure/08_MinNumberInRotatedArray/test2.cpp
-        "SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/test.cpp")
+#        "SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/test.cpp"
+#        data_struct&&algorithm/sort/test.cpp
+        "SwordOffer/Q/5 Capter/30_KLeastNumbers/KLeastNumbers.cpp")
