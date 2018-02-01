@@ -21,7 +21,7 @@ using namespace std;
         {
             if((nums[i-1] *= -1) > 0)
             {
-                res.push_back(abs(i));
+                res.push_back(abs(i)) ;
             }
 
         }
