@@ -119,4 +119,5 @@ add_executable(
 #        SwordOffer/Q/2.3DataStructure/08_MinNumberInRotatedArray/test2.cpp
 #        "SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/test.cpp"
 #        data_struct&&algorithm/sort/test.cpp
-        "SwordOffer/Q/5 Capter/30_KLeastNumbers/KLeastNumbers.cpp")
+#        "SwordOffer/Q/5 Capter/30_KLeastNumbers/KLeastNumbers.cpp"
+        SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp)

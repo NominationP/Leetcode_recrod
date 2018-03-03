@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/30_KLeastNumbers/KLeastNumbers.cpp.o"
+  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.o"
   "Leetcode_recrod.pdb"
   "Leetcode_recrod"
 )
