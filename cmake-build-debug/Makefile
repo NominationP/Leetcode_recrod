@@ -123,32 +123,59 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.o: SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.o
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.o: SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.o
 
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.o
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.o
 
 # target to build an object file
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.o
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.o
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.o
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.o
 
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.i: SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.i
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.i: SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.i
 
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.i
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.i
 
 # target to preprocess a source file
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.i
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.i
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.i
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.i
 
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.s: SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.s
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.s: SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.s
 
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.s
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.s
 
 # target to generate assembly for a file
-SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.s
-.PHONY : SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp.s
+SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.s
+.PHONY : SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.cpp.s
+
+data_struct&&algorithm/sort/test2.o: data_struct&&algorithm/sort/test2.cpp.o
+
+.PHONY : data_struct&&algorithm/sort/test2.o
+
+# target to build an object file
+data_struct&&algorithm/sort/test2.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test2.cpp.o"
+.PHONY : data_struct&&algorithm/sort/test2.cpp.o
+
+data_struct&&algorithm/sort/test2.i: data_struct&&algorithm/sort/test2.cpp.i
+
+.PHONY : data_struct&&algorithm/sort/test2.i
+
+# target to preprocess a source file
+data_struct&&algorithm/sort/test2.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test2.cpp.i"
+.PHONY : data_struct&&algorithm/sort/test2.cpp.i
+
+data_struct&&algorithm/sort/test2.s: data_struct&&algorithm/sort/test2.cpp.s
+
+.PHONY : data_struct&&algorithm/sort/test2.s
+
+# target to generate assembly for a file
+data_struct&&algorithm/sort/test2.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test2.cpp.s"
+.PHONY : data_struct&&algorithm/sort/test2.cpp.s
 
 # Help Target
 help:
@@ -159,9 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.o"
-	@echo "... SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.i"
-	@echo "... SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.s"
+	@echo "... SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.o"
+	@echo "... SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.i"
+	@echo "... SwordOffer/Q/5_Capter/29_MoreThanHalfNumber/test2.s"
+	@echo "... data_struct&&algorithm/sort/test2.o"
+	@echo "... data_struct&&algorithm/sort/test2.i"
+	@echo "... data_struct&&algorithm/sort/test2.s"
 .PHONY : help
 
 
