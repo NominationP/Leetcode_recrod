@@ -123,4 +123,6 @@ add_executable(
 #        SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp
 #        SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/test2.cpp
 #        "SwordOffer/Q/5 Capter/31_FindGreatestSumOfSubArray/FindGreatestSumOfSubArray.cpp"
-        data_struct&&algorithm/sort/test2.cpp "SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/test2.cpp")
+#        data_struct&&algorithm/sort/test2.cpp
+#        "SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/test2.cpp"
+        "SwordOffer/Q/5 Capter/32_NumberOf1/NumberOf1.cpp")
