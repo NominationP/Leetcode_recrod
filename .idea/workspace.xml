@@ -13,21 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2d9b8f47-3473-46b2-80ce-8d56b211493f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/CXX.includecache" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/DependInfo.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/build.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/cmake_clean.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/depend.internal" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/depend.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/link.txt" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Leetcode_recrod.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/Leetcode_recrod.cbp" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,7 +126,7 @@
         <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/30_KLeastNumbers/KLeastNumbers.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="18" />
+              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding>
                 <element signature="e#41#60#0" expanded="true" />
               </folding>
@@ -218,7 +203,6 @@
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/08_MinNumberInRotatedArray/test2.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/test.cpp" />
         <option value="$PROJECT_DIR$/data_struct&amp;&amp;algorithm/sort/test.cpp" />
-        <option value="$PROJECT_DIR$/SwordOffer/Q/5 Capter/30_KLeastNumbers/KLeastNumbers.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/09_Fibonacci/test2.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp" />
@@ -228,6 +212,7 @@
         <option value="$PROJECT_DIR$/SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/test2.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/5 Capter/32_NumberOf1/NumberOf1.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/SwordOffer/Q/5 Capter/30_KLeastNumbers/KLeastNumbers.cpp" />
       </list>
     </option>
   </component>
@@ -444,12 +429,12 @@
       <workItem from="1517222060876" duration="7740000" />
       <workItem from="1517309840376" duration="5381000" />
       <workItem from="1520060805356" duration="3322000" />
-      <workItem from="1520079512312" duration="14424000" />
+      <workItem from="1520079512312" duration="14943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215672000" />
+    <option name="totallyTimeSpent" value="216191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
@@ -957,7 +942,7 @@
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/30_KLeastNumbers/KLeastNumbers.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="18" />
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
             <element signature="e#41#60#0" expanded="true" />
           </folding>
