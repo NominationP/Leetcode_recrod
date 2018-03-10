@@ -57,38 +57,38 @@ include CMakeFiles/Leetcode_recrod.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Leetcode_recrod.dir/flags.make
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o: CMakeFiles/Leetcode_recrod.dir/flags.make
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o: ../SwordOffer/Q/5\ Capter/32_NumberOf1/NumberOf1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o -c "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/32_NumberOf1/NumberOf1.cpp"
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o: CMakeFiles/Leetcode_recrod.dir/flags.make
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o: ../SwordOffer/Q/4\ Capter/28_StringPermutation/test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o -c "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/4 Capter/28_StringPermutation/test.cpp"
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/32_NumberOf1/NumberOf1.cpp" > CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.i
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/4 Capter/28_StringPermutation/test.cpp" > CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.i
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/32_NumberOf1/NumberOf1.cpp" -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.s
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/4 Capter/28_StringPermutation/test.cpp" -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.s
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o.requires:
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o.requires:
 
-.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o.requires
+.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o.requires
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o.provides: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o.provides.build
-.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o.provides
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o.provides: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o.provides.build
+.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o.provides
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o.provides.build: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o.provides.build: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o
 
 
 # Object files for target Leetcode_recrod
 Leetcode_recrod_OBJECTS = \
-"CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o"
+"CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o"
 
 # External object files for target Leetcode_recrod
 Leetcode_recrod_EXTERNAL_OBJECTS =
 
-Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o
+Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o
 Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/build.make
 Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Leetcode_recrod"
@@ -99,7 +99,7 @@ CMakeFiles/Leetcode_recrod.dir/build: Leetcode_recrod
 
 .PHONY : CMakeFiles/Leetcode_recrod.dir/build
 
-CMakeFiles/Leetcode_recrod.dir/requires: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/32_NumberOf1/NumberOf1.cpp.o.requires
+CMakeFiles/Leetcode_recrod.dir/requires: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o.requires
 
 .PHONY : CMakeFiles/Leetcode_recrod.dir/requires
 

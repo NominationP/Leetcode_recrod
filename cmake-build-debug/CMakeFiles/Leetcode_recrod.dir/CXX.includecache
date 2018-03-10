@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/32_NumberOf1/NumberOf1.cpp
-cstring
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/4 Capter/28_StringPermutation/test.cpp
+iostream
 -
-cstdlib
+algorithm
 -
-cstdio
+vector
+-
+string
 -
 
