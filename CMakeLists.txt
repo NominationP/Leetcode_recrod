@@ -128,5 +128,6 @@ add_executable(
 #        "SwordOffer/Q/5 Capter/32_NumberOf1/NumberOf1.cpp"
 #        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp"
 #        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test.cpp"
-        "SwordOffer/Q/4 Capter/28_StringPermutation/test.cpp"
-)
+#        "SwordOffer/Q/4 Capter/28_StringPermutation/test.cpp"
+#        "SwordOffer/Q/5 Capter/34_UglyNumber/UgliyNumber.cpp"
+        "SwordOffer/Q/5 Capter/34_UglyNumber/test.php.cpp")

@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/4_Capter/28_StringPermutation/test.o: SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o
+SwordOffer/Q/5_Capter/34_UglyNumber/test.php.o: SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.o
 
-.PHONY : SwordOffer/Q/4_Capter/28_StringPermutation/test.o
+.PHONY : SwordOffer/Q/5_Capter/34_UglyNumber/test.php.o
 
 # target to build an object file
-SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o
-.PHONY : SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.o
+SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.o
+.PHONY : SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.o
 
-SwordOffer/Q/4_Capter/28_StringPermutation/test.i: SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.i
+SwordOffer/Q/5_Capter/34_UglyNumber/test.php.i: SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.i
 
-.PHONY : SwordOffer/Q/4_Capter/28_StringPermutation/test.i
+.PHONY : SwordOffer/Q/5_Capter/34_UglyNumber/test.php.i
 
 # target to preprocess a source file
-SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.i
-.PHONY : SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.i
+SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.i
+.PHONY : SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.i
 
-SwordOffer/Q/4_Capter/28_StringPermutation/test.s: SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.s
+SwordOffer/Q/5_Capter/34_UglyNumber/test.php.s: SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.s
 
-.PHONY : SwordOffer/Q/4_Capter/28_StringPermutation/test.s
+.PHONY : SwordOffer/Q/5_Capter/34_UglyNumber/test.php.s
 
 # target to generate assembly for a file
-SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.s
-.PHONY : SwordOffer/Q/4_Capter/28_StringPermutation/test.cpp.s
+SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.s
+.PHONY : SwordOffer/Q/5_Capter/34_UglyNumber/test.php.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/4_Capter/28_StringPermutation/test.o"
-	@echo "... SwordOffer/Q/4_Capter/28_StringPermutation/test.i"
-	@echo "... SwordOffer/Q/4_Capter/28_StringPermutation/test.s"
+	@echo "... SwordOffer/Q/5_Capter/34_UglyNumber/test.php.o"
+	@echo "... SwordOffer/Q/5_Capter/34_UglyNumber/test.php.i"
+	@echo "... SwordOffer/Q/5_Capter/34_UglyNumber/test.php.s"
 .PHONY : help
 
 
