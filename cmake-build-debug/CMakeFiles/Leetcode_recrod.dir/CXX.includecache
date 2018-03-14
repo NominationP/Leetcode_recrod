@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/34_UglyNumber/test.php.cpp
-algorithm
--
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp
 iostream
 -
 vector
+-
+string
+-
+algorithm
+-
+sstream
 -
 
