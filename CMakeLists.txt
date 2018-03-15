@@ -126,11 +126,13 @@ add_executable(
 #        data_struct&&algorithm/sort/test2.cpp
 #        "SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/test2.cpp"
 #        "SwordOffer/Q/5 Capter/32_NumberOf1/NumberOf1.cpp"
-        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp"
+#        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp"
 #        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test.cpp"
 #        "SwordOffer/Q/4 Capter/28_StringPermutation/test.cpp"
 #        "SwordOffer/Q/5 Capter/34_UglyNumber/UgliyNumber.cpp"
 #        "SwordOffer/Q/5 Capter/34_UglyNumber/test.php.cpp"
 #        "SwordOffer/Q/4 Capter/28_StringPermutation/test2.cpp"
 #        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test2.cpp"
-)
+#        "SwordOffer/Q/4 Capter/28_StringPermutation/test3.cpp"
+#        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test3.cpp"
+        "SwordOffer/Q/5 Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp")

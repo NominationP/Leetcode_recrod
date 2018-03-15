@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.o: SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.o
+SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.o: SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.o
 
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.o
+.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.o
 
 # target to build an object file
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.o
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.o
+SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.o
+.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.o
 
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.i: SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.i
+SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.i: SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.i
 
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.i
+.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.i
 
 # target to preprocess a source file
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.i
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.i
+SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.i
+.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.i
 
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.s: SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.s
+SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.s: SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.s
 
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.s
+.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.s
 
 # target to generate assembly for a file
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.s
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.s
+SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.s
+.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.o"
-	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.i"
-	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.s"
+	@echo "... SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.o"
+	@echo "... SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.i"
+	@echo "... SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.s"
 .PHONY : help
 
 

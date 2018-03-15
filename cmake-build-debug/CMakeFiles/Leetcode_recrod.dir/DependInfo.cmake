@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp" "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/SortArrayForMinNumber.cpp.o"
+  "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp" "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
