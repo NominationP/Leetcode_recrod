@@ -1,1 +1,1 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.o  -o Leetcode_recrod 
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.o  -o Leetcode_recrod 

@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp
-algorithm
--
-string
--
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/36_InversePairs/InverseParis.cpp
 iostream
+-
+vector
+-
+iterator
 -
 

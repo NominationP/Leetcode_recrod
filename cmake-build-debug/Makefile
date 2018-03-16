@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.o: SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.o
+SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.o: SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.o
 
-.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.o
+.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.o
 
 # target to build an object file
-SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.o
-.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.o
+SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.o
+.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.o
 
-SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.i: SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.i
+SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.i: SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.i
 
-.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.i
+.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.i
 
 # target to preprocess a source file
-SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.i
-.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.i
+SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.i
+.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.i
 
-SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.s: SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.s
+SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.s: SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.s
 
-.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.s
+.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.s
 
 # target to generate assembly for a file
-SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.s
-.PHONY : SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.s
+SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.s
+.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.o"
-	@echo "... SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.i"
-	@echo "... SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.s"
+	@echo "... SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.o"
+	@echo "... SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.i"
+	@echo "... SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.s"
 .PHONY : help
 
 

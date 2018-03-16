@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp.o"
+  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.o"
   "Leetcode_recrod.pdb"
   "Leetcode_recrod"
 )

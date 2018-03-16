@@ -135,4 +135,6 @@ add_executable(
 #        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test2.cpp"
 #        "SwordOffer/Q/4 Capter/28_StringPermutation/test3.cpp"
 #        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test3.cpp"
-        "SwordOffer/Q/5 Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp")
+#        "SwordOffer/Q/5 Capter/35_FirstNotRepeatingChar/FirstNotRepeatingChar.cpp"
+#        data_struct&&algorithm/sort/BubbleSort.cpp data_struct&&algorithm/sort/MergeSort.cpp
+        "SwordOffer/Q/5 Capter/36_InversePairs/InverseParis.cpp")
