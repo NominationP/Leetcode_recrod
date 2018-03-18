@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/36_InversePairs/InverseParis.cpp
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/sort/test.cpp
+cstdlib
+-
+exception
+-
 iostream
--
-vector
--
-iterator
 -
 

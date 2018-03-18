@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.o: SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.o
+data_struct&&algorithm/sort/test.o: data_struct&&algorithm/sort/test.cpp.o
 
-.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.o
+.PHONY : data_struct&&algorithm/sort/test.o
 
 # target to build an object file
-SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.o
-.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.o
+data_struct&&algorithm/sort/test.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test.cpp.o"
+.PHONY : data_struct&&algorithm/sort/test.cpp.o
 
-SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.i: SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.i
+data_struct&&algorithm/sort/test.i: data_struct&&algorithm/sort/test.cpp.i
 
-.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.i
+.PHONY : data_struct&&algorithm/sort/test.i
 
 # target to preprocess a source file
-SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.i
-.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.i
+data_struct&&algorithm/sort/test.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test.cpp.i"
+.PHONY : data_struct&&algorithm/sort/test.cpp.i
 
-SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.s: SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.s
+data_struct&&algorithm/sort/test.s: data_struct&&algorithm/sort/test.cpp.s
 
-.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.s
+.PHONY : data_struct&&algorithm/sort/test.s
 
 # target to generate assembly for a file
-SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.s
-.PHONY : SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.cpp.s
+data_struct&&algorithm/sort/test.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test.cpp.s"
+.PHONY : data_struct&&algorithm/sort/test.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.o"
-	@echo "... SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.i"
-	@echo "... SwordOffer/Q/5_Capter/36_InversePairs/InverseParis.s"
+	@echo "... data_struct&&algorithm/sort/test.o"
+	@echo "... data_struct&&algorithm/sort/test.i"
+	@echo "... data_struct&&algorithm/sort/test.s"
 .PHONY : help
 
 
