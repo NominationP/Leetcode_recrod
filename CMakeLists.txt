@@ -118,7 +118,7 @@ add_executable(
         data_struct&&algorithm/sort/QuickSort.h
 #        SwordOffer/Q/2.3DataStructure/08_MinNumberInRotatedArray/test2.cpp
 #        "SwordOffer/Q/5 Capter/29_MoreThanHalfNumber/test.cpp"
-        data_struct&&algorithm/sort/test.cpp
+#        data_struct&&algorithm/sort/test.cpp
 #        "SwordOffer/Q/5 Capter/30_KLeastNumbers/KLeastNumbers.cpp"
 #        SwordOffer/Q/2.3DataStructure/09_Fibonacci/test.cpp
 #        SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/test2.cpp
@@ -139,4 +139,6 @@ add_executable(
 #        data_struct&&algorithm/sort/BubbleSort.cpp
 #        data_struct&&algorithm/sort/MergeSort.cpp
 #        "SwordOffer/Q/5 Capter/36_InversePairs/InverseParis.cpp"
-)
+#        "SwordOffer/Q/4 Capter/28_StringPermutation/test4.cpp"
+#        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test4.cpp"
+        "SwordOffer/Q/5 Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp")

@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-data_struct&&algorithm/sort/test.o: data_struct&&algorithm/sort/test.cpp.o
+SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.o: SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.o
 
-.PHONY : data_struct&&algorithm/sort/test.o
+.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.o
 
 # target to build an object file
-data_struct&&algorithm/sort/test.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test.cpp.o"
-.PHONY : data_struct&&algorithm/sort/test.cpp.o
+SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.o
+.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.o
 
-data_struct&&algorithm/sort/test.i: data_struct&&algorithm/sort/test.cpp.i
+SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.i: SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.i
 
-.PHONY : data_struct&&algorithm/sort/test.i
+.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.i
 
 # target to preprocess a source file
-data_struct&&algorithm/sort/test.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test.cpp.i"
-.PHONY : data_struct&&algorithm/sort/test.cpp.i
+SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.i
+.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.i
 
-data_struct&&algorithm/sort/test.s: data_struct&&algorithm/sort/test.cpp.s
+SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.s: SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.s
 
-.PHONY : data_struct&&algorithm/sort/test.s
+.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.s
 
 # target to generate assembly for a file
-data_struct&&algorithm/sort/test.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test.cpp.s"
-.PHONY : data_struct&&algorithm/sort/test.cpp.s
+SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.s
+.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... data_struct&&algorithm/sort/test.o"
-	@echo "... data_struct&&algorithm/sort/test.i"
-	@echo "... data_struct&&algorithm/sort/test.s"
+	@echo "... SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.o"
+	@echo "... SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.i"
+	@echo "... SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.s"
 .PHONY : help
 
 
