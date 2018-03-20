@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.o: SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.o
+SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.o: SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.o
 
-.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.o
+.PHONY : SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.o
 
 # target to build an object file
-SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.o
-.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.o
+SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.o
+.PHONY : SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.o
 
-SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.i: SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.i
+SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.i: SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.i
 
-.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.i
+.PHONY : SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.i
 
 # target to preprocess a source file
-SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.i
-.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.i
+SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.i
+.PHONY : SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.i
 
-SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.s: SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.s
+SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.s: SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.s
 
-.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.s
+.PHONY : SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.s
 
 # target to generate assembly for a file
-SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.s
-.PHONY : SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp.s
+SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.s
+.PHONY : SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.o"
-	@echo "... SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.i"
-	@echo "... SwordOffer/Q/5_Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.s"
+	@echo "... SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.o"
+	@echo "... SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.i"
+	@echo "... SwordOffer/Q/5_Capter/38_NumberOfK/NumberOfK.s"
 .PHONY : help
 
 

@@ -141,4 +141,6 @@ add_executable(
 #        "SwordOffer/Q/5 Capter/36_InversePairs/InverseParis.cpp"
 #        "SwordOffer/Q/4 Capter/28_StringPermutation/test4.cpp"
 #        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test4.cpp"
-        "SwordOffer/Q/5 Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp")
+#        "SwordOffer/Q/5 Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp"
+        "SwordOffer/Q/5 Capter/38_NumberOfK/NumberOfK.cpp"
+)
