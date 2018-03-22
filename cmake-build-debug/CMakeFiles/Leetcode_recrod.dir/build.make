@@ -57,38 +57,38 @@ include CMakeFiles/Leetcode_recrod.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Leetcode_recrod.dir/flags.make
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o: CMakeFiles/Leetcode_recrod.dir/flags.make
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o: ../SwordOffer/Q/5\ Capter/39_1_TreeDepth/1_TreeDepth.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o -c "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/39_1_TreeDepth/1_TreeDepth.cpp"
+CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o: CMakeFiles/Leetcode_recrod.dir/flags.make
+CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o: ../data_struct&&algorithm/search/BinarySearch.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o" -c "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/search/BinarySearch.cpp"
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/39_1_TreeDepth/1_TreeDepth.cpp" > CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.i
+CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/search/BinarySearch.cpp" > "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.i"
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/39_1_TreeDepth/1_TreeDepth.cpp" -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.s
+CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/search/BinarySearch.cpp" -o "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.s"
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o.requires:
+CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o.requires:
 
-.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o.requires
+.PHONY : CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o.requires
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o.provides: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o.provides.build
-.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o.provides
+CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o.provides: CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o.provides.build"
+.PHONY : CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o.provides
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o.provides.build: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o
+CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o.provides.build: CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o
 
 
 # Object files for target Leetcode_recrod
 Leetcode_recrod_OBJECTS = \
-"CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o"
+"CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o"
 
 # External object files for target Leetcode_recrod
 Leetcode_recrod_EXTERNAL_OBJECTS =
 
-Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o
+Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o
 Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/build.make
 Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Leetcode_recrod"
@@ -99,7 +99,7 @@ CMakeFiles/Leetcode_recrod.dir/build: Leetcode_recrod
 
 .PHONY : CMakeFiles/Leetcode_recrod.dir/build
 
-CMakeFiles/Leetcode_recrod.dir/requires: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o.requires
+CMakeFiles/Leetcode_recrod.dir/requires: CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o.requires
 
 .PHONY : CMakeFiles/Leetcode_recrod.dir/requires
 

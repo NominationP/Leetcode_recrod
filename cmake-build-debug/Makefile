@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.o: SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o
+data_struct&&algorithm/search/BinarySearch.o: data_struct&&algorithm/search/BinarySearch.cpp.o
 
-.PHONY : SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.o
+.PHONY : data_struct&&algorithm/search/BinarySearch.o
 
 # target to build an object file
-SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o
-.PHONY : SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.o
+data_struct&&algorithm/search/BinarySearch.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o"
+.PHONY : data_struct&&algorithm/search/BinarySearch.cpp.o
 
-SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.i: SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.i
+data_struct&&algorithm/search/BinarySearch.i: data_struct&&algorithm/search/BinarySearch.cpp.i
 
-.PHONY : SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.i
+.PHONY : data_struct&&algorithm/search/BinarySearch.i
 
 # target to preprocess a source file
-SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.i
-.PHONY : SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.i
+data_struct&&algorithm/search/BinarySearch.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.i"
+.PHONY : data_struct&&algorithm/search/BinarySearch.cpp.i
 
-SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.s: SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.s
+data_struct&&algorithm/search/BinarySearch.s: data_struct&&algorithm/search/BinarySearch.cpp.s
 
-.PHONY : SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.s
+.PHONY : data_struct&&algorithm/search/BinarySearch.s
 
 # target to generate assembly for a file
-SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.s
-.PHONY : SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.cpp.s
+data_struct&&algorithm/search/BinarySearch.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.s"
+.PHONY : data_struct&&algorithm/search/BinarySearch.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.o"
-	@echo "... SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.i"
-	@echo "... SwordOffer/Q/5_Capter/39_1_TreeDepth/1_TreeDepth.s"
+	@echo "... data_struct&&algorithm/search/BinarySearch.o"
+	@echo "... data_struct&&algorithm/search/BinarySearch.i"
+	@echo "... data_struct&&algorithm/search/BinarySearch.s"
 .PHONY : help
 
 

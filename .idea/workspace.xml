@@ -12,6 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d9b8f47-3473-46b2-80ce-8d56b211493f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/data_struct&amp;&amp;algorithm/search/BinarySearch.cpp" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/CXX.includecache" />
@@ -39,23 +40,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test3.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test3.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="37" column="3" lean-forward="false" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-              <folding>
-                <element signature="e#40#60#0" expanded="true" />
-                <element signature="e#601#610#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FirstCommonNoDeInLists.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
+            <state relative-caret-position="665">
               <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="e#41#61#0" expanded="true" />
@@ -68,7 +56,7 @@
       <file leaf-file-name="list.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/list.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
+            <state relative-caret-position="1843">
               <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding />
             </state>
@@ -78,7 +66,7 @@
       <file leaf-file-name="BubbleSort.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/sort/BubbleSort.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
+            <state relative-caret-position="627">
               <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding />
             </state>
@@ -88,7 +76,7 @@
       <file leaf-file-name="NumberOfK.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/38_NumberOfK/NumberOfK.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
+            <state relative-caret-position="589">
               <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
               <folding>
                 <element signature="e#41#61#0" expanded="true" />
@@ -97,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1_TreeDepth.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1_TreeDepth.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/39_1_TreeDepth/1_TreeDepth.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
@@ -109,10 +97,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="BinarySearch.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/search/BinarySearch.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+              <folding>
+                <element signature="e#41#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="test2.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/25_PathInTree/test2.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
+            <state relative-caret-position="741">
               <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="48" selection-end-column="21" />
               <folding>
                 <element signature="e#41#61#0" expanded="true" />
@@ -124,7 +124,7 @@
       <file leaf-file-name="tree.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
+            <state relative-caret-position="6137">
               <caret line="323" column="18" lean-forward="false" selection-start-line="323" selection-start-column="17" selection-end-line="323" selection-end-column="18" />
               <folding />
             </state>
@@ -135,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="817">
-              <caret line="146" column="50" lean-forward="false" selection-start-line="146" selection-start-column="50" selection-end-line="146" selection-end-column="50" />
+              <caret line="147" column="9" lean-forward="false" selection-start-line="147" selection-start-column="9" selection-end-line="147" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -182,8 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test.cpp" />
-        <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/06_ContructBinaryTree/test2.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/07_QueueWithTwoStacks/test2.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/4 Capter/24_SquenceOfBST/test.php.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/4 Capter/25_PathInTree/PathInTree.cpp" />
@@ -232,7 +230,9 @@
         <option value="$PROJECT_DIR$/SwordOffer/Q/5 Capter/38_NumberOfK/NumberOfK.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/4 Capter/25_PathInTree/test2.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/5 Capter/39_1_TreeDepth/1_TreeDepth.cpp" />
+        <option value="$PROJECT_DIR$/data_struct&amp;&amp;algorithm/search/binarySearch.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/data_struct&amp;&amp;algorithm/search/BinarySearch.cpp" />
       </list>
     </option>
   </component>
@@ -302,7 +302,7 @@
               <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
               <item name="data_struct&amp;&amp;algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
@@ -495,23 +495,23 @@
       <workItem from="1520754815201" duration="1152000" />
       <workItem from="1520900138655" duration="1033000" />
       <workItem from="1520995933573" duration="11759000" />
-      <workItem from="1521240502382" duration="27087000" />
+      <workItem from="1521240502382" duration="27685000" />
+      <workItem from="1521679307443" duration="1329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270576000" />
+    <option name="totallyTimeSpent" value="272503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17380953" sideWeight="0.49376947" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14404762" sideWeight="0.49376947" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845187" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28033474" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -524,6 +524,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -642,13 +643,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/26_CopyComplexList/ComplexList.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/26_CopyComplexList/CopyComplexList.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1559">
@@ -859,9 +853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="596">
           <caret line="51" column="14" lean-forward="false" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
-          <folding>
-            <element signature="e#40#60#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -869,7 +860,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
           <caret line="35" column="3" lean-forward="false" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,9 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="39" column="9" lean-forward="false" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-          <folding>
-            <element signature="e#40#60#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,15 +895,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
           <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-          <folding>
-            <element signature="e#41#61#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test3.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
+        <state relative-caret-position="703">
           <caret line="37" column="3" lean-forward="false" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
           <folding>
             <element signature="e#40#60#0" expanded="true" />
@@ -927,7 +911,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/list.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
+        <state relative-caret-position="1843">
           <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding />
         </state>
@@ -953,9 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          <folding>
-            <element signature="e#41#61#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -963,13 +944,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/37_FirstCommonNodeInLists/FirstCommonNoDeInLists.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
+        <state relative-caret-position="665">
           <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="e#41#61#0" expanded="true" />
@@ -982,15 +962,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#19#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/sort/BubbleSort.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
+        <state relative-caret-position="627">
           <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding />
         </state>
@@ -998,7 +975,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
+        <state relative-caret-position="6137">
           <caret line="323" column="18" lean-forward="false" selection-start-line="323" selection-start-column="17" selection-end-line="323" selection-end-column="18" />
           <folding />
         </state>
@@ -1016,13 +993,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="695">
           <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="55" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/38_NumberOfK/NumberOfK.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="589">
           <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
           <folding>
             <element signature="e#41#61#0" expanded="true" />
@@ -1032,8 +1008,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/25_PathInTree/test2.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
+        <state relative-caret-position="741">
           <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="48" selection-end-column="21" />
+          <folding>
+            <element signature="e#41#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/39_1_TreeDepth/1_TreeDepth.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="11" />
           <folding>
             <element signature="e#41#61#0" expanded="true" />
           </folding>
@@ -1043,15 +1029,15 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
-          <caret line="146" column="50" lean-forward="false" selection-start-line="146" selection-start-column="50" selection-end-line="146" selection-end-column="50" />
+          <caret line="147" column="9" lean-forward="false" selection-start-line="147" selection-start-column="9" selection-end-line="147" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/39_1_TreeDepth/1_TreeDepth.cpp">
+    <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/search/BinarySearch.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="11" />
+        <state relative-caret-position="455">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
           <folding>
             <element signature="e#41#61#0" expanded="true" />
           </folding>
