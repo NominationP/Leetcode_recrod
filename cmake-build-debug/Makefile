@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-data_struct&&algorithm/search/BinarySearch.o: data_struct&&algorithm/search/BinarySearch.cpp.o
+SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.o: SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.o
 
-.PHONY : data_struct&&algorithm/search/BinarySearch.o
+.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.o
 
 # target to build an object file
-data_struct&&algorithm/search/BinarySearch.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.o"
-.PHONY : data_struct&&algorithm/search/BinarySearch.cpp.o
+SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.o
+.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.o
 
-data_struct&&algorithm/search/BinarySearch.i: data_struct&&algorithm/search/BinarySearch.cpp.i
+SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.i: SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.i
 
-.PHONY : data_struct&&algorithm/search/BinarySearch.i
+.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.i
 
 # target to preprocess a source file
-data_struct&&algorithm/search/BinarySearch.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.i"
-.PHONY : data_struct&&algorithm/search/BinarySearch.cpp.i
+SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.i
+.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.i
 
-data_struct&&algorithm/search/BinarySearch.s: data_struct&&algorithm/search/BinarySearch.cpp.s
+SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.s: SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.s
 
-.PHONY : data_struct&&algorithm/search/BinarySearch.s
+.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.s
 
 # target to generate assembly for a file
-data_struct&&algorithm/search/BinarySearch.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/search/BinarySearch.cpp.s"
-.PHONY : data_struct&&algorithm/search/BinarySearch.cpp.s
+SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.s
+.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... data_struct&&algorithm/search/BinarySearch.o"
-	@echo "... data_struct&&algorithm/search/BinarySearch.i"
-	@echo "... data_struct&&algorithm/search/BinarySearch.s"
+	@echo "... SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.o"
+	@echo "... SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.i"
+	@echo "... SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.s"
 .PHONY : help
 
 
