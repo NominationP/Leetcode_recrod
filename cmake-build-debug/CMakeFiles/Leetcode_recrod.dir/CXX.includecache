@@ -6,10 +6,14 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test5.cpp
 algorithm
 -
 vector
+-
+istream
+-
+sstream
 -
 iostream
 -

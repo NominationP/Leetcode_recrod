@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.o: SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.o
+SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.o: SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.o
 
-.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.o
+.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.o
 
 # target to build an object file
-SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.o
-.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.o
+SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.o
+.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.o
 
-SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.i: SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.i
+SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.i: SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.i
 
-.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.i
+.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.i
 
 # target to preprocess a source file
-SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.i
-.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.i
+SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.i
+.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.i
 
-SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.s: SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.s
+SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.s: SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.s
 
-.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.s
+.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.s
 
 # target to generate assembly for a file
-SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.s
-.PHONY : SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp.s
+SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.s
+.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.o"
-	@echo "... SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.i"
-	@echo "... SwordOffer/Q/6_Capter/40_NumbersAppearOnce/NumbersAppearOnce.s"
+	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.o"
+	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.i"
+	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.s"
 .PHONY : help
 
 

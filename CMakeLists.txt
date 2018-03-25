@@ -146,4 +146,10 @@ add_executable(
 #        "SwordOffer/Q/4 Capter/25_PathInTree/test2.cpp"
 #        "SwordOffer/Q/5 Capter/39_1_TreeDepth/1_TreeDepth.cpp"
 #        data_struct&&algorithm/search/BinarySearch.cpp
-        "SwordOffer/Q/6 Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp")
+#        "SwordOffer/Q/6 Capter/40_NumbersAppearOnce/NumbersAppearOnce.cpp"
+#        "SwordOffer/Q/6 Capter/41_NumbersWithSum/1_TwoNumbersWithSum.cpp"
+#        "SwordOffer/Q/6 Capter/41_NumbersWithSum/2_ContinuesSquenceWithSum.cpp"
+#        "SwordOffer/Q/6 Capter/39_1_TreeDepth/test.cpp"
+#        "SwordOffer/Q/4 Capter/25_PathInTree/test3.cpp"
+#        "SwordOffer/Q/4 Capter/28_StringPermutation/test5.cpp"
+        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test5.cpp")
