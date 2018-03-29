@@ -150,6 +150,60 @@ SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.s:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.s
 .PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.s
 
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.o: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.o
+
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.o
+
+# target to build an object file
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.o
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.o
+
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.i: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.i
+
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.i
+
+# target to preprocess a source file
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.i
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.i
+
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.s: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.s
+
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.s
+
+# target to generate assembly for a file
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.s
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.s
+
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.o: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o
+
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.o
+
+# target to build an object file
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o
+
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.i: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.i
+
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.i
+
+# target to preprocess a source file
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.i
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.i
+
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.s: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.s
+
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.s
+
+# target to generate assembly for a file
+SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.s
+.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +216,12 @@ help:
 	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.o"
 	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.i"
 	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.s"
+	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.o"
+	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.i"
+	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.s"
+	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.o"
+	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.i"
+	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.s"
 .PHONY : help
 
 
