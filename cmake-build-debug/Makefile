@@ -204,6 +204,33 @@ SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.s:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.s
 .PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.s
 
+SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.o: SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o
+
+.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.o
+
+# target to build an object file
+SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o
+.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o
+
+SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.i: SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.i
+
+.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.i
+
+# target to preprocess a source file
+SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.i
+.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.i
+
+SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.s: SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.s
+
+.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.s
+
+# target to generate assembly for a file
+SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.s
+.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -222,6 +249,9 @@ help:
 	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.o"
 	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.i"
 	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.s"
+	@echo "... SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.o"
+	@echo "... SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.i"
+	@echo "... SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.s"
 .PHONY : help
 
 

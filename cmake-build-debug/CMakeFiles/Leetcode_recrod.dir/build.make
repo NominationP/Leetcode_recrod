@@ -129,11 +129,36 @@ CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2
 CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o.provides.build: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o
 
 
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o: CMakeFiles/Leetcode_recrod.dir/flags.make
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o: ../SwordOffer/Q/6\ Capter/43_DicesProbability/DicesProbability.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o -c "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/43_DicesProbability/DicesProbability.cpp"
+
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/43_DicesProbability/DicesProbability.cpp" > CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.i
+
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/43_DicesProbability/DicesProbability.cpp" -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.s
+
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o.requires:
+
+.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o.requires
+
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o.provides: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o.provides.build
+.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o.provides
+
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o.provides.build: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o
+
+
 # Object files for target Leetcode_recrod
 Leetcode_recrod_OBJECTS = \
 "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.o" \
 "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.o" \
-"CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o"
+"CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o" \
+"CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o"
 
 # External object files for target Leetcode_recrod
 Leetcode_recrod_EXTERNAL_OBJECTS =
@@ -141,9 +166,10 @@ Leetcode_recrod_EXTERNAL_OBJECTS =
 Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.o
 Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.o
 Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o
+Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o
 Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/build.make
 Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Leetcode_recrod"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Leetcode_recrod"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Leetcode_recrod.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -154,6 +180,7 @@ CMakeFiles/Leetcode_recrod.dir/build: Leetcode_recrod
 CMakeFiles/Leetcode_recrod.dir/requires: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.o.requires
 CMakeFiles/Leetcode_recrod.dir/requires: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.o.requires
 CMakeFiles/Leetcode_recrod.dir/requires: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o.requires
+CMakeFiles/Leetcode_recrod.dir/requires: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o.requires
 
 .PHONY : CMakeFiles/Leetcode_recrod.dir/requires
 
