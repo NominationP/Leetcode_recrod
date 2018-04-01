@@ -123,113 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.o: SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.o
+SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.o: SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.o
 
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.o
-
-# target to build an object file
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.o
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.o
-
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.i: SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.i
-
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.i
-
-# target to preprocess a source file
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.i
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.i
-
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.s: SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.s
-
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.s
-
-# target to generate assembly for a file
-SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.s
-.PHONY : SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.cpp.s
-
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.o: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.o
-
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.o
+.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.o
 
 # target to build an object file
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.o
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.o
+SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.o
+.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.o
 
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.i: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.i
+SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.i: SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.i
 
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.i
-
-# target to preprocess a source file
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.i
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.i
-
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.s: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.s
-
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.s
-
-# target to generate assembly for a file
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.s
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp.s
-
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.o: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o
-
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.o
-
-# target to build an object file
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.o
-
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.i: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.i
-
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.i
+.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.i
 
 # target to preprocess a source file
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.i
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.i
+SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.i
+.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.i
 
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.s: SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.s
+SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.s: SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.s
 
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.s
-
-# target to generate assembly for a file
-SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.s
-.PHONY : SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp.s
-
-SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.o: SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o
-
-.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.o
-
-# target to build an object file
-SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o
-.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.o
-
-SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.i: SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.i
-
-.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.i
-
-# target to preprocess a source file
-SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.i
-.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.i
-
-SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.s: SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.s
-
-.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.s
+.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.s
 
 # target to generate assembly for a file
-SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.s
-.PHONY : SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.cpp.s
+SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.s
+.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.s
 
 # Help Target
 help:
@@ -240,18 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.o"
-	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.i"
-	@echo "... SwordOffer/Q/5_Capter/33_SortArrayForMinNumber/test5.s"
-	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.o"
-	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.i"
-	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.s"
-	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.o"
-	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.i"
-	@echo "... SwordOffer/Q/6_Capter/42_ReverseWordsInSentence/2_LeftRotateString.s"
-	@echo "... SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.o"
-	@echo "... SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.i"
-	@echo "... SwordOffer/Q/6_Capter/43_DicesProbability/DicesProbability.s"
+	@echo "... SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.o"
+	@echo "... SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.i"
+	@echo "... SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.s"
 .PHONY : help
 
 

@@ -152,4 +152,9 @@ add_executable(
 #        "SwordOffer/Q/6 Capter/39_1_TreeDepth/test.cpp"
 #        "SwordOffer/Q/4 Capter/25_PathInTree/test3.cpp"
 #        "SwordOffer/Q/4 Capter/28_StringPermutation/test5.cpp"
-        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test5.cpp" "SwordOffer/Q/6 Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp" "SwordOffer/Q/6 Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp" "SwordOffer/Q/6 Capter/43_DicesProbability/DicesProbability.cpp")
+#        "SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test5.cpp"
+#        "SwordOffer/Q/6 Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp"
+#        "SwordOffer/Q/6 Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp"
+#        "SwordOffer/Q/6 Capter/43_DicesProbability/DicesProbability.cpp"
+#        "SwordOffer/Q/6 Capter/44_ContinousCards/ContinuousCards.cpp"
+        "SwordOffer/Q/6 Capter/45_LastNumberInCircle/LastNumberInCircle.cpp")

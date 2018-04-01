@@ -6,15 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test5.cpp
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/45_LastNumberInCircle/LastNumberInCircle.cpp
 algorithm
 -
 vector
 -
-istream
--
-sstream
--
 iostream
+-
+list
 -
 

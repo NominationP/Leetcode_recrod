@@ -82,16 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test5.cpp">
-			<Option target="Leetcode_recrod"/>
-		</Unit>
-		<Unit filename="/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/42_ReverseWordsInSentence/1_ReverseWordsSentence.cpp">
-			<Option target="Leetcode_recrod"/>
-		</Unit>
-		<Unit filename="/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp">
-			<Option target="Leetcode_recrod"/>
-		</Unit>
-		<Unit filename="/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/43_DicesProbability/DicesProbability.cpp">
+		<Unit filename="/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/45_LastNumberInCircle/LastNumberInCircle.cpp">
 			<Option target="Leetcode_recrod"/>
 		</Unit>
 		<Unit filename="/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&amp;&amp;algorithm/list.h">
