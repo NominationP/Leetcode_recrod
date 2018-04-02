@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.o: SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.o
+SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.o: SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o
 
-.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.o
+.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.o
 
 # target to build an object file
-SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.o
-.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.o
+SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o
+.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o
 
-SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.i: SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.i
+SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.i: SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.i
 
-.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.i
+.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.i
 
 # target to preprocess a source file
-SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.i
-.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.i
+SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.i
+.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.i
 
-SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.s: SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.s
+SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.s: SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.s
 
-.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.s
+.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.s
 
 # target to generate assembly for a file
-SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.s
-.PHONY : SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.s
+SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.s
+.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.o"
-	@echo "... SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.i"
-	@echo "... SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.s"
+	@echo "... SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.o"
+	@echo "... SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.i"
+	@echo "... SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.s"
 .PHONY : help
 
 

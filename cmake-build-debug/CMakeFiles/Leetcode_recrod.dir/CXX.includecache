@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/45_LastNumberInCircle/LastNumberInCircle.cpp
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp
 algorithm
 -
-vector
+string
 -
 iostream
--
-list
 -
 

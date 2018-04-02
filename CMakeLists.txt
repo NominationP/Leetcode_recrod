@@ -157,4 +157,9 @@ add_executable(
 #        "SwordOffer/Q/6 Capter/42_ReverseWordsInSentence/2_LeftRotateString.cpp"
 #        "SwordOffer/Q/6 Capter/43_DicesProbability/DicesProbability.cpp"
 #        "SwordOffer/Q/6 Capter/44_ContinousCards/ContinuousCards.cpp"
-        "SwordOffer/Q/6 Capter/45_LastNumberInCircle/LastNumberInCircle.cpp")
+#        "SwordOffer/Q/6 Capter/45_LastNumberInCircle/LastNumberInCircle.cpp"
+#        "SwordOffer/Q/6 Capter/46_Accomulate/Accomulate.cpp"
+#        "SwordOffer/Q/6 Capter/46_Accomulate/Accomulate2.cpp"
+#        "SwordOffer/Q/6 Capter/47_AddTwoNumbers/AddTwoNumbers.cpp"
+#        "SwordOffer/Q/6 Capter/48_SealedClass/SealedClass.cpp"
+        "SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp")

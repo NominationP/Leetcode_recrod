@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/45_LastNumberInCircle/LastNumberInCircle.cpp.o"
+  "CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o"
   "Leetcode_recrod.pdb"
   "Leetcode_recrod"
 )
