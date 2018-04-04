@@ -45,110 +45,40 @@
       <file leaf-file-name="CMakeLists.txt" pinned="true" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="164" column="9" lean-forward="false" selection-start-line="164" selection-start-column="9" selection-end-line="164" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeSort.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/sort/MergeSort.cpp">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="874">
-              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <caret line="165" column="9" lean-forward="false" selection-start-line="165" selection-start-column="9" selection-end-line="165" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContinuousCards.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/44_ContinousCards/ContinuousCards.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="e#41#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LastNumberInCircle.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/45_LastNumberInCircle/LastNumberInCircle.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#41#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Accomulate.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/46_Accomulate/Accomulate.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="46" selection-end-column="1" />
-              <folding>
-                <element signature="e#39#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Accomulate2.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/46_Accomulate/Accomulate2.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="e#39#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddTwoNumbers.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/47_AddTwoNumbers/AddTwoNumbers.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-              <folding>
-                <element signature="e#39#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SealedClass.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/48_SealedClass/SealedClass.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringToInt.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp">
+      <file leaf-file-name="CommonParent.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
-              <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+              <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
               <folding>
-                <element signature="e#39#59#0" expanded="true" />
+                <element signature="e#39#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iterator" pinned="false" current-in-tab="false">
-        <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator">
+      <file leaf-file-name="StringToInt.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27854">
-              <caret line="1487" column="0" lean-forward="false" selection-start-line="1487" selection-start-column="0" selection-end-line="1487" selection-end-column="0" />
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tree.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="440" column="0" lean-forward="false" selection-start-line="440" selection-start-column="0" selection-end-line="449" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -191,7 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/09_Fibonacci/test2.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/NumberOf1InBinary.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/2.3DataStructure/10_NumberOf1InBinary/test2.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/5 Capter/31_FindGreatestSumOfSubArray/FindGreatestSumOfSubArray.cpp" />
@@ -242,6 +171,7 @@
         <option value="$PROJECT_DIR$/SwordOffer/Q/6 Capter/48_SealedClass/SealedClass.cpp" />
         <option value="$PROJECT_DIR$/SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp" />
       </list>
     </option>
   </component>
@@ -393,6 +323,14 @@
               <item name="6 Capter" type="462c0819:PsiDirectoryNode" />
               <item name="49_StringToInt" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Leetcode_recrod" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Leetcode_recrod" type="462c0819:PsiDirectoryNode" />
+              <item name="SwordOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="Q" type="462c0819:PsiDirectoryNode" />
+              <item name="6 Capter" type="462c0819:PsiDirectoryNode" />
+              <item name="50_CommonParent" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -495,12 +433,12 @@
       <workItem from="1522110769224" duration="406000" />
       <workItem from="1522163721023" duration="854000" />
       <workItem from="1522282797300" duration="15347000" />
-      <workItem from="1522583737348" duration="4951000" />
+      <workItem from="1522583737348" duration="10585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="311710000" />
+    <option name="totallyTimeSpent" value="317344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
@@ -652,12 +590,11 @@
           <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="124" />
+      <option name="time" value="125" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/4 Capter/28_StringPermutation/test2" />
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/5 Capter/33_SortArrayForMinNumber/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
@@ -763,13 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="323" column="18" lean-forward="false" selection-start-line="323" selection-start-column="17" selection-end-line="323" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -969,30 +899,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator">
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/48_SealedClass/SealedClass.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27854">
-          <caret line="1487" column="0" lean-forward="false" selection-start-line="1487" selection-start-column="0" selection-end-line="1487" selection-end-column="0" />
+        <state relative-caret-position="380">
+          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/45_LastNumberInCircle/LastNumberInCircle.cpp">
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/47_AddTwoNumbers/AddTwoNumbers.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="475">
+          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
           <folding>
-            <element signature="e#41#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/46_Accomulate/Accomulate.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="46" selection-end-column="1" />
-          <folding>
-            <element signature="e#39#59#0" expanded="true" />
+            <element signature="e#39#59#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1002,43 +922,69 @@
         <state relative-caret-position="418">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="e#39#59#0" expanded="true" />
+            <element signature="e#39#59#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/47_AddTwoNumbers/AddTwoNumbers.cpp">
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/46_Accomulate/Accomulate.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        <state relative-caret-position="760">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="46" selection-end-column="1" />
           <folding>
-            <element signature="e#39#59#0" expanded="true" />
+            <element signature="e#39#59#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/48_SealedClass/SealedClass.cpp">
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/45_LastNumberInCircle/LastNumberInCircle.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#41#61#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="1487" column="0" lean-forward="false" selection-start-line="1487" selection-start-column="0" selection-end-line="1487" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_struct&amp;&amp;algorithm/tree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="440" column="0" lean-forward="false" selection-start-line="440" selection-start-column="0" selection-end-line="449" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="164" column="9" lean-forward="false" selection-start-line="164" selection-start-column="9" selection-end-line="164" selection-end-column="9" />
+        <state relative-caret-position="874">
+          <caret line="165" column="9" lean-forward="false" selection-start-line="165" selection-start-column="9" selection-end-line="165" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
-          <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
           <folding>
-            <element signature="e#39#59#0" expanded="true" />
+            <element signature="e#39#54#0" expanded="true" />
           </folding>
         </state>
       </provider>

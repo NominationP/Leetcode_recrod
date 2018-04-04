@@ -6,11 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp
-algorithm
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp
+list
 -
-string
+../../../../data_struct&&algorithm/tree.h
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/tree.h
+iostream
+-
+vector
+-
+
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/tree.h
+clocale
 -
 iostream
+-
+stack
 -
 

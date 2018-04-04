@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp" "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o"
+  "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp" "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

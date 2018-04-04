@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.o: SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o
+SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.o: SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o
 
-.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.o
+.PHONY : SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.o
 
 # target to build an object file
-SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o
-.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o
+SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o
+.PHONY : SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o
 
-SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.i: SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.i
+SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.i: SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.i
 
-.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.i
+.PHONY : SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.i
 
 # target to preprocess a source file
-SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.i
-.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.i
+SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.i
+.PHONY : SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.i
 
-SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.s: SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.s
+SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.s: SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.s
 
-.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.s
+.PHONY : SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.s
 
 # target to generate assembly for a file
-SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.s
-.PHONY : SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.s
+SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.s
+.PHONY : SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.o"
-	@echo "... SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.i"
-	@echo "... SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.s"
+	@echo "... SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.o"
+	@echo "... SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.i"
+	@echo "... SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.s"
 .PHONY : help
 
 

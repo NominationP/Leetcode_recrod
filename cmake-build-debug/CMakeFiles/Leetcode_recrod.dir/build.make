@@ -57,38 +57,38 @@ include CMakeFiles/Leetcode_recrod.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Leetcode_recrod.dir/flags.make
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o: CMakeFiles/Leetcode_recrod.dir/flags.make
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o: ../SwordOffer/Q/6\ Capter/49_StringToInt/StringToInt.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o -c "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp"
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o: CMakeFiles/Leetcode_recrod.dir/flags.make
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o: ../SwordOffer/Q/6\ Capter/50_CommonParent/CommonParent.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o -c "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp"
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp" > CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.i
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp" > CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.i
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp" -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.s
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp" -o CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.s
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o.requires:
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o.requires:
 
-.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o.requires
+.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o.requires
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o.provides: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o.provides.build
-.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o.provides
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o.provides: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o.provides.build
+.PHONY : CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o.provides
 
-CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o.provides.build: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o
+CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o.provides.build: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o
 
 
 # Object files for target Leetcode_recrod
 Leetcode_recrod_OBJECTS = \
-"CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o"
+"CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o"
 
 # External object files for target Leetcode_recrod
 Leetcode_recrod_EXTERNAL_OBJECTS =
 
-Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o
+Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o
 Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/build.make
 Leetcode_recrod: CMakeFiles/Leetcode_recrod.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Leetcode_recrod"
@@ -99,7 +99,7 @@ CMakeFiles/Leetcode_recrod.dir/build: Leetcode_recrod
 
 .PHONY : CMakeFiles/Leetcode_recrod.dir/build
 
-CMakeFiles/Leetcode_recrod.dir/requires: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/49_StringToInt/StringToInt.cpp.o.requires
+CMakeFiles/Leetcode_recrod.dir/requires: CMakeFiles/Leetcode_recrod.dir/SwordOffer/Q/6_Capter/50_CommonParent/CommonParent.cpp.o.requires
 
 .PHONY : CMakeFiles/Leetcode_recrod.dir/requires
 

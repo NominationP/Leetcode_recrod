@@ -162,4 +162,5 @@ add_executable(
 #        "SwordOffer/Q/6 Capter/46_Accomulate/Accomulate2.cpp"
 #        "SwordOffer/Q/6 Capter/47_AddTwoNumbers/AddTwoNumbers.cpp"
 #        "SwordOffer/Q/6 Capter/48_SealedClass/SealedClass.cpp"
-        "SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp")
+#        "SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp"
+        "SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp")
