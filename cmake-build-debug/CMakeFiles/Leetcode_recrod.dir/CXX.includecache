@@ -6,20 +6,16 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp
-list
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/data_list/Check_circleList.cpp
+algorithm
 -
-../../../../data_struct&&algorithm/tree.h
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/tree.h
-iostream
--
-vector
--
+../list.h
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/list.h
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/tree.h
-clocale
--
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/list.h
 iostream
+-
+cstdlib
 -
 stack
 -

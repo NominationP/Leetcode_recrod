@@ -163,4 +163,5 @@ add_executable(
 #        "SwordOffer/Q/6 Capter/47_AddTwoNumbers/AddTwoNumbers.cpp"
 #        "SwordOffer/Q/6 Capter/48_SealedClass/SealedClass.cpp"
 #        "SwordOffer/Q/6 Capter/49_StringToInt/StringToInt.cpp"
-        "SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp")
+#        "SwordOffer/Q/6 Capter/50_CommonParent/CommonParent.cpp"
+        data_struct&&algorithm/data_list/Check_circleList.cpp)
