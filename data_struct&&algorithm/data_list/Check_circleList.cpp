@@ -11,22 +11,27 @@
 
 using namespace std;
 
-bool CheckCircleList(Node* head){
+Node* reverseList(Node* head) {
 
-    Node* slow = head;
-    Node* fast = slow->next;
+    if(head==NULL || !head->next)
+        return head;
 
-    while(slow != fast){
+    Node* pre = NULL;
+    Node* cur = head;
+    Node* post = cur->next;
 
-        if(slow==NULL || fast==NULL){
-            return false;
-        }
+    while(!post){
 
-        slow = slow->next;
-        fast = slow->next;
+        cur->next = pre;
+        pre = cur;
+        cur = post;
+        post = post->next;
+
     }
 
-    return true;
+    cur->next = pre;
+
+    return cur;
 
 
 }
@@ -43,7 +48,13 @@ int main(){
     list->push_back(7);
     list->push_front(4);
 
-    cout<<CheckCircleList(list->head);
+    Node* head = reverseList(list->head);
+
+    while(head){
+        cout<<head->data<<endl;
+        head = head->next;
+    }
+
 }
 
 
