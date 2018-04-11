@@ -6,17 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/data_list/Check_circleList.cpp
+/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/sort/test.cpp
 algorithm
 -
-../list.h
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/list.h
-
-/Users/yibo/Documents/html/github/MyPro/Leetcode_recrod/data_struct&&algorithm/list.h
+vector
+-
 iostream
--
-cstdlib
--
-stack
 -
 

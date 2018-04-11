@@ -123,32 +123,32 @@ Leetcode_recrod/fast:
 	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make CMakeFiles/Leetcode_recrod.dir/build
 .PHONY : Leetcode_recrod/fast
 
-data_struct&&algorithm/data_list/Check_circleList.o: data_struct&&algorithm/data_list/Check_circleList.cpp.o
+data_struct&&algorithm/sort/test.o: data_struct&&algorithm/sort/test.cpp.o
 
-.PHONY : data_struct&&algorithm/data_list/Check_circleList.o
+.PHONY : data_struct&&algorithm/sort/test.o
 
 # target to build an object file
-data_struct&&algorithm/data_list/Check_circleList.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/data_list/Check_circleList.cpp.o"
-.PHONY : data_struct&&algorithm/data_list/Check_circleList.cpp.o
+data_struct&&algorithm/sort/test.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test.cpp.o"
+.PHONY : data_struct&&algorithm/sort/test.cpp.o
 
-data_struct&&algorithm/data_list/Check_circleList.i: data_struct&&algorithm/data_list/Check_circleList.cpp.i
+data_struct&&algorithm/sort/test.i: data_struct&&algorithm/sort/test.cpp.i
 
-.PHONY : data_struct&&algorithm/data_list/Check_circleList.i
+.PHONY : data_struct&&algorithm/sort/test.i
 
 # target to preprocess a source file
-data_struct&&algorithm/data_list/Check_circleList.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/data_list/Check_circleList.cpp.i"
-.PHONY : data_struct&&algorithm/data_list/Check_circleList.cpp.i
+data_struct&&algorithm/sort/test.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test.cpp.i"
+.PHONY : data_struct&&algorithm/sort/test.cpp.i
 
-data_struct&&algorithm/data_list/Check_circleList.s: data_struct&&algorithm/data_list/Check_circleList.cpp.s
+data_struct&&algorithm/sort/test.s: data_struct&&algorithm/sort/test.cpp.s
 
-.PHONY : data_struct&&algorithm/data_list/Check_circleList.s
+.PHONY : data_struct&&algorithm/sort/test.s
 
 # target to generate assembly for a file
-data_struct&&algorithm/data_list/Check_circleList.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/data_list/Check_circleList.cpp.s"
-.PHONY : data_struct&&algorithm/data_list/Check_circleList.cpp.s
+data_struct&&algorithm/sort/test.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode_recrod.dir/build.make "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test.cpp.s"
+.PHONY : data_struct&&algorithm/sort/test.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode_recrod"
-	@echo "... data_struct&&algorithm/data_list/Check_circleList.o"
-	@echo "... data_struct&&algorithm/data_list/Check_circleList.i"
-	@echo "... data_struct&&algorithm/data_list/Check_circleList.s"
+	@echo "... data_struct&&algorithm/sort/test.o"
+	@echo "... data_struct&&algorithm/sort/test.i"
+	@echo "... data_struct&&algorithm/sort/test.s"
 .PHONY : help
 
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/data_list/Check_circleList.cpp.o"
+  "CMakeFiles/Leetcode_recrod.dir/data_struct&&algorithm/sort/test.cpp.o"
   "Leetcode_recrod.pdb"
   "Leetcode_recrod"
 )
